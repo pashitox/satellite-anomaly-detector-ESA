@@ -19,7 +19,8 @@ This project is a full-featured anomaly detection system for ESA satellite missi
 
 ---
 
-## 🗂️ Repository Structure
+## 🗂️ Repository Structure (only essentials included)
+
 
 ```
 satellite-anomaly-detector-ESA/
@@ -71,6 +72,72 @@ satellite-anomaly-detector-ESA/
     └── mission_projection.csv
 ```
 
+
+---
+
+## 📦 Excluded Components
+
+To comply with GitHub size limits and ensure clean deployment, the following folders/files were **not uploaded**:
+
+| Folder/File          | Type                      | Status          |
+|----------------------|---------------------------|------------------|
+| `data/ESA-Mission1/` | Raw datasets               | Not included     |
+| `MODELS/`            | Trained model binaries     | Not included     |
+| `figures/`           | SHAP plots & charts        | Not included     |
+| `dashboards/`        | Power BI & Streamlit apps  | Not included     |
+| `.pbix`, `.joblib`   | Heavy artifacts            | Not included     |
+| `.png`, `.gif`, `.html` | Visual exports          | Not included     |
+
+📁 External access to excluded materials available on request via [Google Drive](#).
+
+---
+
+## 🧠 Highlights
+
+- ✔️ Engineered features from satellite logs  
+- ✔️ Clean training pipeline (XGBoost)  
+- ✔️ Model interpretability using SHAP  
+- ✔️ Predictions by mission and class  
+- ✔️ Modular structure for scalability
+
+---
+
+## 🛠️ Technologies
+
+- Python 3.9  
+- Pandas, NumPy, Scikit-learn  
+- XGBoost, SHAP  
+- Matplotlib, Seaborn  
+- Jupyter Notebook
+
+---
+
+## 📊 Results
+
+- 86% accuracy and 83% F1 Score on validation set  
+- SHAP analysis revealed anomaly-triggering command sequences  
+- Notebooks deliver visual interpretation and mission-level projections
+
+---
+
+## 👨‍🚀 Author
+
+**Juan M.G.Y.** — Data Scientist & anomaly hunter  
+Contact: [LinkedIn](#) · [Email](#) · [GitHub](https://github.com/pashitox)
+
+---
+
+## 🧾 Notes
+
+This is a lightweight version of the full ESA anomaly detector system.  
+For visual assets, trained models, dashboards or raw data access — reach out via issue or contact form.
+
+
+
+
+
+
+
 ---
 
 ## 🚀 Highlights
@@ -84,14 +151,15 @@ satellite-anomaly-detector-ESA/
 - ✔️ Modular code ready for deployment
 
 ---
-
-## 🛠️ Technologies Used
+## 🛠️ Technologies
 
 - Python 3.9  
 - Pandas, NumPy, Scikit-learn  
 - XGBoost, SHAP  
-- Seaborn, Matplotlib  
-- Streamlit, Power BI  
+- Matplotlib, Seaborn  
+- Jupyter Notebook
+
+
 
 ---
 
@@ -101,12 +169,13 @@ This pipeline is ideal for mission control teams, satellite engineers, and aeros
 
 ---
 
-📈 Results
-- The trained XGBoost model reached 86% accuracy and 83% F1 score, outperforming logistic regression and random forest benchmarks.
-- SHAP interpretability confirmed that command sequences immediately preceding anomalies have significant predictive power.
-- The mission-wise projection revealed distinct anomaly profiles for ESA-Mission1 vs Mission3, particularly in telemetry categories.
-- Visualizations highlight class distributions, command overlaps, and temporal patterns of anomalies.
-- The Streamlit dashboard allows manual anomaly submission, prediction, and interpretation in real time.
+## 📊 Results
+
+- 86% accuracy and 83% F1 Score on validation set  
+- SHAP analysis revealed anomaly-triggering command sequences  
+- Notebooks deliver visual interpretation and mission-level projections
+
+
 
 🧾 Conclusion
 This ESA satellite anomaly detector demonstrates a viable architecture for proactive fault detection using interpretable machine learning. It combines telemetry, command logs, and temporal patterns to flag irregular satellite behavior. With modular design, dashboard support, and comprehensive reporting, the system is deployable and extendable for future missions. Further work may explore integration with real-time telemetry streams or expand feature engineering based on signal diagnostics and subsystem models.
@@ -116,5 +185,12 @@ This ESA satellite anomaly detector demonstrates a viable architecture for proac
 
 ## 👨‍🚀 Author
 
-- **Juan M.G.Y.** — Data Scientist, anomaly hunter, and architect of this mission.
+**Juan M.G.Y.** — Data Scientist & anomaly hunter  
+Contact: [LinkedIn](#) · [Email](#) · [GitHub](https://github.com/pashitox)
+
+- ## 🧾 Notes
+
+This is a lightweight version of the full ESA anomaly detector system.  
+For visual assets, trained models, dashboards or raw data access — reach out via issue or contact form.
+
 
