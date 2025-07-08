@@ -1,0 +1,12 @@
+venv/
+DATA/
+MODELS/
+NOTEBOOK/figures/
+*.dll
+*.pbix
+*.joblib
+*.zip
+*.png
+*.gif
+*.html
+__pycache__/

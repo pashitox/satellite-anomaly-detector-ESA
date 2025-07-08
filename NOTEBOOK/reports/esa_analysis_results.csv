@@ -1,0 +1,1431 @@
+mission,class,subclass,category,dimensionality,locality,length
+ESA-Mission1,class_6,subclass_1,Rare Event,Multivariate,Global,Subsequence
+ESA-Mission1,class_7,subclass_1,Anomaly,Multivariate,Local,Subsequence
+ESA-Mission1,class_7,subclass_1,Anomaly,Multivariate,Global,Subsequence
+ESA-Mission1,class_7,subclass_1,Anomaly,Multivariate,Local,Subsequence
+ESA-Mission1,class_7,subclass_1,Anomaly,Multivariate,Local,Subsequence
+ESA-Mission1,class_7,subclass_1,Anomaly,Multivariate,Local,Subsequence
+ESA-Mission1,class_7,subclass_1,Anomaly,Multivariate,Local,Subsequence
+ESA-Mission1,class_7,subclass_1,Anomaly,Multivariate,Local,Subsequence
+ESA-Mission1,class_7,subclass_1,Anomaly,Multivariate,Local,Subsequence
+ESA-Mission1,class_9,subclass_1,Anomaly,Multivariate,Global,Subsequence
+ESA-Mission1,class_11,unknown,Anomaly,Multivariate,Local,Subsequence
+ESA-Mission1,class_11,unknown,Anomaly,Multivariate,Global,Subsequence
+ESA-Mission1,class_11,unknown,Anomaly,Multivariate,Global,Subsequence
+ESA-Mission1,class_4,subclass_1,Rare Event,Multivariate,Global,Subsequence
+ESA-Mission1,class_4,unknown,Rare Event,Multivariate,Global,Subsequence
+ESA-Mission1,class_16,unknown,Rare Event,Multivariate,Local,Subsequence
+ESA-Mission1,class_4,unknown,Rare Event,Multivariate,Global,Subsequence
+ESA-Mission1,class_9,subclass_1,Anomaly,Multivariate,Global,Subsequence
+ESA-Mission1,class_16,subclass_1,Rare Event,Multivariate,Global,Subsequence
+ESA-Mission1,class_18,unknown,Anomaly,Multivariate,Local,Subsequence
+ESA-Mission1,class_4,unknown,Rare Event,Multivariate,Global,Subsequence
+ESA-Mission1,class_16,unknown,Rare Event,Multivariate,Global,Subsequence
+ESA-Mission1,class_16,unknown,Rare Event,Multivariate,Local,Subsequence
+ESA-Mission1,class_10,subclass_1,Rare Event,Multivariate,Local,Subsequence
+ESA-Mission1,class_19,unknown,Anomaly,Multivariate,Global,Subsequence
+ESA-Mission1,class_8,subclass_1,Rare Event,Multivariate,Local,Subsequence
+ESA-Mission1,class_8,subclass_1,Rare Event,Multivariate,Local,Subsequence
+ESA-Mission1,class_8,subclass_1,Rare Event,Multivariate,Local,Subsequence
+ESA-Mission1,class_8,subclass_1,Rare Event,Multivariate,Local,Subsequence
+ESA-Mission1,class_7,subclass_1,Anomaly,Multivariate,Local,Subsequence
+ESA-Mission1,class_8,subclass_1,Rare Event,Multivariate,Local,Subsequence
+ESA-Mission1,class_8,subclass_1,Rare Event,Multivariate,Local,Subsequence
+ESA-Mission1,class_8,subclass_1,Rare Event,Multivariate,Local,Subsequence
+ESA-Mission1,class_8,subclass_1,Rare Event,Multivariate,Global,Subsequence
+ESA-Mission1,class_14,subclass_1,Rare Event,Multivariate,Local,Subsequence
+ESA-Mission1,class_7,subclass_1,Anomaly,Multivariate,Local,Subsequence
+ESA-Mission1,class_10,unknown,Rare Event,Multivariate,Local,Subsequence
+ESA-Mission1,class_12,unknown,Rare Event,Multivariate,Local,Subsequence
+ESA-Mission1,class_16,subclass_2,Rare Event,Multivariate,Local,Subsequence
+ESA-Mission1,class_16,unknown,Rare Event,Multivariate,Local,Subsequence
+ESA-Mission1,class_10,subclass_1,Rare Event,Multivariate,Local,Subsequence
+ESA-Mission1,class_1,unknown,Anomaly,Univariate,Local,Point
+ESA-Mission1,class_13,subclass_1,Anomaly,Multivariate,Local,Subsequence
+ESA-Mission1,class_4,unknown,Rare Event,Multivariate,Global,Subsequence
+ESA-Mission1,class_7,subclass_2,Anomaly,Multivariate,Global,Subsequence
+ESA-Mission1,class_7,subclass_1,Anomaly,Multivariate,Local,Subsequence
+ESA-Mission1,class_16,unknown,Rare Event,Multivariate,Local,Subsequence
+ESA-Mission1,class_16,unknown,Rare Event,Multivariate,Local,Subsequence
+ESA-Mission1,class_12,unknown,Rare Event,Multivariate,Local,Subsequence
+ESA-Mission1,class_12,unknown,Rare Event,Multivariate,Local,Subsequence
+ESA-Mission1,class_16,unknown,Rare Event,Multivariate,Local,Subsequence
+ESA-Mission1,class_5,unknown,Communication Gap,,,
+ESA-Mission1,class_5,unknown,Communication Gap,,,
+ESA-Mission1,class_5,unknown,Communication Gap,,,
+ESA-Mission1,class_16,subclass_3,Rare Event,Multivariate,Local,Point
+ESA-Mission1,class_7,subclass_1,Anomaly,Multivariate,Local,Subsequence
+ESA-Mission1,class_5,unknown,Communication Gap,,,
+ESA-Mission1,class_7,subclass_1,Anomaly,Multivariate,Local,Subsequence
+ESA-Mission1,class_14,subclass_1,Rare Event,Multivariate,Global,Subsequence
+ESA-Mission1,class_22,subclass_2,Rare Event,Univariate,Local,Subsequence
+ESA-Mission1,class_22,subclass_1,Anomaly,Univariate,Global,Subsequence
+ESA-Mission1,class_22,subclass_3,Anomaly,Univariate,Global,Subsequence
+ESA-Mission1,class_22,subclass_3,Anomaly,Univariate,Global,Subsequence
+ESA-Mission1,class_22,subclass_1,Anomaly,Univariate,Global,Subsequence
+ESA-Mission1,class_22,subclass_3,Anomaly,Univariate,Global,Subsequence
+ESA-Mission1,class_22,subclass_3,Anomaly,Univariate,Global,Subsequence
+ESA-Mission1,class_22,subclass_1,Anomaly,Univariate,Global,Subsequence
+ESA-Mission1,class_22,subclass_1,Anomaly,Univariate,Global,Subsequence
+ESA-Mission1,class_22,subclass_2,Rare Event,Univariate,Local,Subsequence
+ESA-Mission1,class_22,subclass_2,Rare Event,Univariate,Global,Subsequence
+ESA-Mission1,class_22,subclass_2,Rare Event,Univariate,Global,Subsequence
+ESA-Mission1,class_22,subclass_2,Rare Event,Univariate,Global,Subsequence
+ESA-Mission1,class_15,subclass_1,Anomaly,Multivariate,Global,Subsequence
+ESA-Mission1,class_22,subclass_2,Rare Event,Univariate,Global,Subsequence
+ESA-Mission1,class_22,subclass_2,Rare Event,Univariate,Global,Subsequence
+ESA-Mission1,class_22,subclass_2,Rare Event,Univariate,Global,Subsequence
+ESA-Mission1,class_14,subclass_1,Rare Event,Multivariate,Global,Subsequence
+ESA-Mission1,class_6,subclass_2,Rare Event,Multivariate,Global,Subsequence
+ESA-Mission1,class_2,subclass_1,Rare Event,Multivariate,Global,Subsequence
+ESA-Mission1,class_14,subclass_1,Rare Event,Multivariate,Global,Subsequence
+ESA-Mission1,class_14,subclass_1,Rare Event,Multivariate,Global,Subsequence
+ESA-Mission1,class_7,subclass_1,Anomaly,Multivariate,Local,Subsequence
+ESA-Mission1,class_3,subclass_1,Anomaly,Multivariate,Global,Subsequence
+ESA-Mission1,class_17,subclass_1,Anomaly,Multivariate,Global,Subsequence
+ESA-Mission1,class_21,unknown,Anomaly,Multivariate,Local,Subsequence
+ESA-Mission1,class_15,subclass_1,Anomaly,Multivariate,Global,Subsequence
+ESA-Mission1,class_14,subclass_1,Rare Event,Multivariate,Global,Subsequence
+ESA-Mission1,class_14,subclass_1,Rare Event,Multivariate,Global,Subsequence
+ESA-Mission1,class_2,subclass_2,Anomaly,Multivariate,Global,Subsequence
+ESA-Mission1,class_3,subclass_2,Anomaly,Multivariate,Global,Subsequence
+ESA-Mission1,class_3,subclass_2,Anomaly,Multivariate,Local,Subsequence
+ESA-Mission1,class_7,subclass_1,Anomaly,Multivariate,Global,Subsequence
+ESA-Mission1,class_3,subclass_2,Anomaly,Multivariate,Global,Subsequence
+ESA-Mission1,class_7,subclass_1,Anomaly,Multivariate,Local,Subsequence
+ESA-Mission1,class_14,subclass_1,Rare Event,Multivariate,Global,Subsequence
+ESA-Mission1,class_15,subclass_1,Anomaly,Multivariate,Global,Subsequence
+ESA-Mission1,class_7,subclass_1,Anomaly,Multivariate,Global,Subsequence
+ESA-Mission1,class_14,subclass_1,Rare Event,Multivariate,Global,Subsequence
+ESA-Mission1,class_7,subclass_1,Anomaly,Multivariate,Local,Subsequence
+ESA-Mission1,class_14,subclass_1,Rare Event,Multivariate,Global,Subsequence
+ESA-Mission1,class_20,unknown,Anomaly,Multivariate,Global,Subsequence
+ESA-Mission1,class_20,unknown,Anomaly,Multivariate,Global,Subsequence
+ESA-Mission1,class_20,unknown,Anomaly,Multivariate,Global,Subsequence
+ESA-Mission1,class_14,subclass_1,Rare Event,Multivariate,Global,Subsequence
+ESA-Mission1,class_7,subclass_1,Anomaly,Multivariate,Local,Subsequence
+ESA-Mission1,class_14,subclass_2,Rare Event,Multivariate,Global,Subsequence
+ESA-Mission1,class_3,subclass_2,Anomaly,Multivariate,Global,Subsequence
+ESA-Mission1,class_7,subclass_1,Anomaly,Multivariate,Local,Subsequence
+ESA-Mission1,class_3,subclass_2,Anomaly,Multivariate,Global,Point
+ESA-Mission1,class_3,subclass_2,Anomaly,Multivariate,Global,Point
+ESA-Mission1,class_7,subclass_1,Anomaly,Multivariate,Local,Subsequence
+ESA-Mission1,class_14,subclass_1,Rare Event,Multivariate,Global,Subsequence
+ESA-Mission1,class_7,subclass_1,Anomaly,Multivariate,Local,Subsequence
+ESA-Mission1,class_3,subclass_2,Anomaly,Multivariate,Global,Point
+ESA-Mission1,class_7,subclass_1,Anomaly,Multivariate,Local,Subsequence
+ESA-Mission1,class_14,subclass_3,Anomaly,Multivariate,Global,Subsequence
+ESA-Mission1,class_14,subclass_1,Rare Event,Multivariate,Global,Subsequence
+ESA-Mission1,class_3,subclass_2,Anomaly,Multivariate,Global,Point
+ESA-Mission1,class_7,subclass_1,Anomaly,Multivariate,Global,Subsequence
+ESA-Mission1,class_7,subclass_1,Anomaly,Multivariate,Local,Subsequence
+ESA-Mission1,class_3,subclass_2,Anomaly,Multivariate,Global,Subsequence
+ESA-Mission1,class_3,subclass_2,Anomaly,Multivariate,Global,Subsequence
+ESA-Mission1,class_14,subclass_1,Rare Event,Multivariate,Global,Subsequence
+ESA-Mission1,class_3,subclass_2,Anomaly,Multivariate,Global,Subsequence
+ESA-Mission1,class_2,subclass_3,Rare Event,Multivariate,Global,Subsequence
+ESA-Mission1,class_7,subclass_1,Anomaly,Multivariate,Local,Subsequence
+ESA-Mission1,class_7,subclass_1,Anomaly,Multivariate,Local,Subsequence
+ESA-Mission1,class_14,subclass_1,Rare Event,Multivariate,Global,Subsequence
+ESA-Mission1,class_3,subclass_2,Anomaly,Multivariate,Global,Point
+ESA-Mission1,class_3,subclass_2,Anomaly,Multivariate,Global,Point
+ESA-Mission1,class_7,subclass_1,Anomaly,Multivariate,Local,Subsequence
+ESA-Mission1,class_3,subclass_2,Anomaly,Multivariate,Global,Point
+ESA-Mission1,class_14,subclass_1,Rare Event,Multivariate,Global,Subsequence
+ESA-Mission1,class_14,subclass_4,Anomaly,Multivariate,Global,Subsequence
+ESA-Mission1,class_7,subclass_1,Anomaly,Multivariate,Local,Subsequence
+ESA-Mission1,class_14,subclass_1,Rare Event,Multivariate,Global,Subsequence
+ESA-Mission1,class_7,subclass_1,Anomaly,Multivariate,Local,Subsequence
+ESA-Mission1,class_15,subclass_1,Anomaly,Multivariate,Global,Subsequence
+ESA-Mission1,class_14,subclass_1,Rare Event,Multivariate,Local,Subsequence
+ESA-Mission1,class_3,subclass_2,Anomaly,Multivariate,Global,Point
+ESA-Mission1,class_7,subclass_2,Anomaly,Multivariate,Local,Subsequence
+ESA-Mission1,class_3,subclass_2,Anomaly,Multivariate,Global,Subsequence
+ESA-Mission1,class_7,subclass_2,Anomaly,Multivariate,Local,Subsequence
+ESA-Mission1,class_22,subclass_1,Anomaly,Univariate,Local,Subsequence
+ESA-Mission1,class_22,subclass_4,Anomaly,Multivariate,Global,Subsequence
+ESA-Mission1,class_7,subclass_1,Anomaly,Multivariate,Global,Subsequence
+ESA-Mission1,class_14,subclass_1,Rare Event,Multivariate,Local,Subsequence
+ESA-Mission1,class_7,subclass_1,Anomaly,Multivariate,Local,Subsequence
+ESA-Mission1,class_3,subclass_2,Anomaly,Multivariate,Global,Subsequence
+ESA-Mission1,class_3,subclass_2,Anomaly,Multivariate,Global,Subsequence
+ESA-Mission1,class_14,subclass_1,Rare Event,Multivariate,Global,Subsequence
+ESA-Mission1,class_7,subclass_1,Anomaly,Multivariate,Local,Subsequence
+ESA-Mission1,class_17,subclass_1,Anomaly,Multivariate,Global,Subsequence
+ESA-Mission1,class_14,subclass_1,Rare Event,Multivariate,Global,Subsequence
+ESA-Mission1,class_14,subclass_5,Rare Event,Multivariate,Local,Subsequence
+ESA-Mission1,class_7,subclass_1,Anomaly,Multivariate,Local,Subsequence
+ESA-Mission1,class_17,subclass_1,Anomaly,Multivariate,Global,Subsequence
+ESA-Mission1,class_22,subclass_1,Anomaly,Univariate,Global,Subsequence
+ESA-Mission1,class_14,subclass_1,Rare Event,Multivariate,Local,Subsequence
+ESA-Mission1,class_3,subclass_2,Anomaly,Multivariate,Global,Subsequence
+ESA-Mission1,class_7,subclass_1,Anomaly,Multivariate,Local,Subsequence
+ESA-Mission1,class_7,subclass_1,Anomaly,Multivariate,Local,Subsequence
+ESA-Mission1,class_22,subclass_1,Anomaly,Univariate,Global,Subsequence
+ESA-Mission1,class_14,subclass_1,Rare Event,Multivariate,Local,Subsequence
+ESA-Mission1,class_3,subclass_2,Anomaly,Multivariate,Global,Point
+ESA-Mission1,class_3,subclass_2,Anomaly,Multivariate,Global,Subsequence
+ESA-Mission1,class_20,unknown,Anomaly,Multivariate,Global,Subsequence
+ESA-Mission1,class_22,subclass_2,Rare Event,Univariate,Global,Subsequence
+ESA-Mission1,class_14,subclass_1,Rare Event,Multivariate,Local,Subsequence
+ESA-Mission1,class_22,subclass_2,Rare Event,Univariate,Global,Subsequence
+ESA-Mission1,class_7,subclass_1,Anomaly,Multivariate,Local,Subsequence
+ESA-Mission1,class_3,subclass_2,Anomaly,Multivariate,Global,Point
+ESA-Mission1,class_22,subclass_2,Rare Event,Univariate,Global,Subsequence
+ESA-Mission1,class_15,subclass_2,Rare Event,Multivariate,Local,Subsequence
+ESA-Mission1,class_14,subclass_1,Rare Event,Multivariate,Local,Subsequence
+ESA-Mission1,class_3,subclass_2,Anomaly,Multivariate,Global,Subsequence
+ESA-Mission1,class_3,subclass_2,Anomaly,Multivariate,Global,Subsequence
+ESA-Mission1,class_7,subclass_1,Anomaly,Multivariate,Local,Subsequence
+ESA-Mission1,class_7,subclass_1,Anomaly,Multivariate,Global,Subsequence
+ESA-Mission1,class_2,subclass_4,Rare Event,Multivariate,Global,Subsequence
+ESA-Mission1,class_7,subclass_1,Anomaly,Multivariate,Local,Subsequence
+ESA-Mission1,class_14,subclass_6,Rare Event,Multivariate,Local,Subsequence
+ESA-Mission1,class_3,subclass_2,Anomaly,Multivariate,Global,Subsequence
+ESA-Mission1,class_3,subclass_2,Anomaly,Multivariate,Global,Subsequence
+ESA-Mission1,class_3,subclass_1,Anomaly,Multivariate,Global,Subsequence
+ESA-Mission1,class_3,subclass_2,Anomaly,Multivariate,Global,Subsequence
+ESA-Mission1,class_3,subclass_2,Anomaly,Multivariate,Global,Subsequence
+ESA-Mission1,class_7,subclass_1,Anomaly,Multivariate,Local,Subsequence
+ESA-Mission1,class_7,subclass_1,Anomaly,Multivariate,Local,Subsequence
+ESA-Mission1,class_22,subclass_2,Rare Event,Univariate,Local,Subsequence
+ESA-Mission1,class_22,subclass_3,Anomaly,Univariate,Local,Subsequence
+ESA-Mission1,class_22,subclass_3,Anomaly,Univariate,Global,Subsequence
+ESA-Mission1,class_22,subclass_3,Anomaly,Multivariate,Local,Subsequence
+ESA-Mission1,class_22,subclass_1,Anomaly,Univariate,Local,Subsequence
+ESA-Mission1,class_22,subclass_1,Anomaly,Univariate,Global,Subsequence
+ESA-Mission1,class_22,subclass_2,Rare Event,Univariate,Global,Subsequence
+ESA-Mission1,class_22,subclass_2,Rare Event,Univariate,Global,Subsequence
+ESA-Mission1,class_22,subclass_2,Rare Event,Univariate,Global,Subsequence
+ESA-Mission1,class_22,subclass_1,Anomaly,Univariate,Local,Subsequence
+ESA-Mission1,class_15,subclass_1,Anomaly,Multivariate,Global,Subsequence
+ESA-Mission2,class_30,unknown,Rare Event,Multivariate,Global,Subsequence
+ESA-Mission2,class_8,unknown,Rare Event,Multivariate,Global,Subsequence
+ESA-Mission2,class_19,unknown,Rare Event,Multivariate,Global,Subsequence
+ESA-Mission2,class_30,unknown,Rare Event,Multivariate,Global,Subsequence
+ESA-Mission2,class_19,unknown,Rare Event,Multivariate,Global,Subsequence
+ESA-Mission2,class_19,unknown,Rare Event,Multivariate,Global,Subsequence
+ESA-Mission2,class_30,unknown,Rare Event,Multivariate,Global,Subsequence
+ESA-Mission2,class_19,unknown,Rare Event,Multivariate,Global,Subsequence
+ESA-Mission2,class_19,unknown,Rare Event,Multivariate,Global,Subsequence
+ESA-Mission2,class_19,unknown,Rare Event,Multivariate,Global,Subsequence
+ESA-Mission2,class_12,subclass_1,Rare Event,Multivariate,Global,Subsequence
+ESA-Mission2,class_19,unknown,Rare Event,Multivariate,Global,Subsequence
+ESA-Mission2,class_19,unknown,Rare Event,Multivariate,Global,Subsequence
+ESA-Mission2,class_18,unknown,Rare Event,Multivariate,Local,Subsequence
+ESA-Mission2,class_20,unknown,Rare Event,Multivariate,Global,Subsequence
+ESA-Mission2,class_20,unknown,Rare Event,Multivariate,Global,Subsequence
+ESA-Mission2,class_20,unknown,Rare Event,Multivariate,Global,Subsequence
+ESA-Mission2,class_20,unknown,Rare Event,Multivariate,Global,Subsequence
+ESA-Mission2,class_20,unknown,Rare Event,Multivariate,Global,Subsequence
+ESA-Mission2,class_20,unknown,Rare Event,Multivariate,Global,Subsequence
+ESA-Mission2,class_20,unknown,Rare Event,Multivariate,Global,Subsequence
+ESA-Mission2,class_20,unknown,Rare Event,Multivariate,Global,Subsequence
+ESA-Mission2,class_20,unknown,Rare Event,Multivariate,Global,Subsequence
+ESA-Mission2,class_30,unknown,Rare Event,Multivariate,Global,Subsequence
+ESA-Mission2,class_30,unknown,Rare Event,Multivariate,Global,Subsequence
+ESA-Mission2,class_18,unknown,Rare Event,Multivariate,Global,Subsequence
+ESA-Mission2,class_18,unknown,Rare Event,Multivariate,Global,Subsequence
+ESA-Mission2,class_30,unknown,Rare Event,Multivariate,Global,Subsequence
+ESA-Mission2,class_19,unknown,Rare Event,Multivariate,Global,Subsequence
+ESA-Mission2,class_30,unknown,Rare Event,Multivariate,Global,Subsequence
+ESA-Mission2,class_18,unknown,Rare Event,Multivariate,Global,Subsequence
+ESA-Mission2,class_18,unknown,Rare Event,Multivariate,Global,Subsequence
+ESA-Mission2,class_19,unknown,Rare Event,Multivariate,Global,Subsequence
+ESA-Mission2,class_20,unknown,Rare Event,Multivariate,Global,Subsequence
+ESA-Mission2,class_21,unknown,Rare Event,Multivariate,Global,Subsequence
+ESA-Mission2,class_19,unknown,Rare Event,Multivariate,Global,Subsequence
+ESA-Mission2,class_21,unknown,Rare Event,Multivariate,Global,Subsequence
+ESA-Mission2,class_21,unknown,Rare Event,Multivariate,Global,Subsequence
+ESA-Mission2,class_30,unknown,Rare Event,Multivariate,Global,Subsequence
+ESA-Mission2,class_30,unknown,Rare Event,Multivariate,Global,Subsequence
+ESA-Mission2,class_18,unknown,Rare Event,Multivariate,Global,Subsequence
+ESA-Mission2,class_18,unknown,Rare Event,Multivariate,Global,Subsequence
+ESA-Mission2,class_18,unknown,Rare Event,Multivariate,Global,Subsequence
+ESA-Mission2,class_14,unknown,Rare Event,Multivariate,Local,Subsequence
+ESA-Mission2,class_30,unknown,Rare Event,Multivariate,Global,Subsequence
+ESA-Mission2,class_19,unknown,Rare Event,Multivariate,Global,Subsequence
+ESA-Mission2,class_30,unknown,Rare Event,Multivariate,Global,Subsequence
+ESA-Mission2,class_19,unknown,Rare Event,Multivariate,Global,Subsequence
+ESA-Mission2,class_19,unknown,Rare Event,Multivariate,Global,Subsequence
+ESA-Mission2,class_10,unknown,Rare Event,Multivariate,Global,Subsequence
+ESA-Mission2,class_19,unknown,Rare Event,Multivariate,Global,Subsequence
+ESA-Mission2,class_18,unknown,Rare Event,Multivariate,Local,Subsequence
+ESA-Mission2,class_19,unknown,Rare Event,Multivariate,Global,Subsequence
+ESA-Mission2,class_19,unknown,Rare Event,Multivariate,Global,Subsequence
+ESA-Mission2,class_30,unknown,Rare Event,Multivariate,Global,Subsequence
+ESA-Mission2,class_4,unknown,Rare Event,Multivariate,Global,Subsequence
+ESA-Mission2,class_30,unknown,Rare Event,Multivariate,Global,Subsequence
+ESA-Mission2,class_19,unknown,Rare Event,Multivariate,Global,Subsequence
+ESA-Mission2,class_10,unknown,Rare Event,Multivariate,Global,Subsequence
+ESA-Mission2,class_31,unknown,Anomaly,Multivariate,Local,Subsequence
+ESA-Mission2,class_18,unknown,Rare Event,Multivariate,Local,Subsequence
+ESA-Mission2,class_30,unknown,Rare Event,Multivariate,Global,Subsequence
+ESA-Mission2,class_19,unknown,Rare Event,Multivariate,Global,Subsequence
+ESA-Mission2,class_30,unknown,Rare Event,Multivariate,Global,Subsequence
+ESA-Mission2,class_19,unknown,Rare Event,Multivariate,Global,Subsequence
+ESA-Mission2,class_19,unknown,Rare Event,Multivariate,Global,Subsequence
+ESA-Mission2,class_19,unknown,Rare Event,Multivariate,Global,Subsequence
+ESA-Mission2,class_19,unknown,Rare Event,Multivariate,Global,Subsequence
+ESA-Mission2,class_19,unknown,Rare Event,Multivariate,Global,Subsequence
+ESA-Mission2,class_19,unknown,Rare Event,Multivariate,Global,Subsequence
+ESA-Mission2,class_18,unknown,Rare Event,Multivariate,Global,Subsequence
+ESA-Mission2,class_19,unknown,Rare Event,Multivariate,Global,Subsequence
+ESA-Mission2,class_19,unknown,Rare Event,Multivariate,Global,Subsequence
+ESA-Mission2,class_19,unknown,Rare Event,Multivariate,Global,Subsequence
+ESA-Mission2,class_30,unknown,Rare Event,Multivariate,Global,Subsequence
+ESA-Mission2,class_19,unknown,Rare Event,Multivariate,Global,Subsequence
+ESA-Mission2,class_19,unknown,Rare Event,Multivariate,Global,Subsequence
+ESA-Mission2,class_19,unknown,Rare Event,Multivariate,Global,Subsequence
+ESA-Mission2,class_30,unknown,Rare Event,Multivariate,Global,Subsequence
+ESA-Mission2,class_19,unknown,Rare Event,Multivariate,Global,Subsequence
+ESA-Mission2,class_19,unknown,Rare Event,Multivariate,Global,Subsequence
+ESA-Mission2,class_18,unknown,Rare Event,Multivariate,Global,Subsequence
+ESA-Mission2,class_19,unknown,Rare Event,Multivariate,Global,Subsequence
+ESA-Mission2,class_19,unknown,Rare Event,Multivariate,Global,Subsequence
+ESA-Mission2,class_30,unknown,Rare Event,Multivariate,Global,Subsequence
+ESA-Mission2,class_19,unknown,Rare Event,Multivariate,Global,Subsequence
+ESA-Mission2,class_19,unknown,Rare Event,Multivariate,Global,Subsequence
+ESA-Mission2,class_19,unknown,Rare Event,Multivariate,Global,Subsequence
+ESA-Mission2,class_19,unknown,Rare Event,Multivariate,Global,Subsequence
+ESA-Mission2,class_19,unknown,Rare Event,Multivariate,Global,Subsequence
+ESA-Mission2,class_11,subclass_1,Rare Event,Multivariate,Global,Subsequence
+ESA-Mission2,class_18,unknown,Rare Event,Multivariate,Global,Subsequence
+ESA-Mission2,class_6,unknown,Rare Event,Multivariate,Global,Subsequence
+ESA-Mission2,class_6,unknown,Rare Event,Multivariate,Global,Subsequence
+ESA-Mission2,class_19,unknown,Rare Event,Multivariate,Global,Subsequence
+ESA-Mission2,class_19,unknown,Rare Event,Multivariate,Global,Subsequence
+ESA-Mission2,class_30,unknown,Rare Event,Multivariate,Global,Subsequence
+ESA-Mission2,class_19,unknown,Rare Event,Multivariate,Global,Subsequence
+ESA-Mission2,class_19,unknown,Rare Event,Multivariate,Global,Subsequence
+ESA-Mission2,class_19,unknown,Rare Event,Multivariate,Global,Subsequence
+ESA-Mission2,class_30,unknown,Rare Event,Multivariate,Global,Subsequence
+ESA-Mission2,class_18,unknown,Rare Event,Multivariate,Global,Subsequence
+ESA-Mission2,class_19,unknown,Rare Event,Multivariate,Global,Subsequence
+ESA-Mission2,class_19,unknown,Rare Event,Multivariate,Global,Subsequence
+ESA-Mission2,class_19,unknown,Rare Event,Multivariate,Global,Subsequence
+ESA-Mission2,class_30,unknown,Rare Event,Multivariate,Global,Subsequence
+ESA-Mission2,class_19,unknown,Rare Event,Multivariate,Global,Subsequence
+ESA-Mission2,class_19,unknown,Rare Event,Multivariate,Global,Subsequence
+ESA-Mission2,class_19,unknown,Rare Event,Multivariate,Global,Subsequence
+ESA-Mission2,class_30,unknown,Rare Event,Multivariate,Global,Subsequence
+ESA-Mission2,class_19,unknown,Rare Event,Multivariate,Global,Subsequence
+ESA-Mission2,class_18,unknown,Rare Event,Multivariate,Global,Subsequence
+ESA-Mission2,class_19,unknown,Rare Event,Multivariate,Global,Subsequence
+ESA-Mission2,class_19,unknown,Rare Event,Multivariate,Global,Subsequence
+ESA-Mission2,class_19,unknown,Rare Event,Multivariate,Global,Subsequence
+ESA-Mission2,class_19,unknown,Rare Event,Multivariate,Local,Subsequence
+ESA-Mission2,class_19,unknown,Rare Event,Multivariate,Global,Subsequence
+ESA-Mission2,class_19,unknown,Rare Event,Multivariate,Global,Subsequence
+ESA-Mission2,class_30,unknown,Rare Event,Multivariate,Global,Subsequence
+ESA-Mission2,class_19,unknown,Rare Event,Multivariate,Global,Subsequence
+ESA-Mission2,class_19,unknown,Rare Event,Multivariate,Global,Subsequence
+ESA-Mission2,class_18,unknown,Rare Event,Multivariate,Global,Subsequence
+ESA-Mission2,class_19,unknown,Rare Event,Multivariate,Global,Subsequence
+ESA-Mission2,class_19,unknown,Rare Event,Multivariate,Global,Subsequence
+ESA-Mission2,class_19,unknown,Rare Event,Multivariate,Global,Subsequence
+ESA-Mission2,class_30,unknown,Rare Event,Multivariate,Global,Subsequence
+ESA-Mission2,class_19,unknown,Rare Event,Multivariate,Global,Subsequence
+ESA-Mission2,class_19,unknown,Rare Event,Multivariate,Global,Subsequence
+ESA-Mission2,class_19,unknown,Rare Event,Multivariate,Global,Subsequence
+ESA-Mission2,class_19,unknown,Rare Event,Multivariate,Global,Subsequence
+ESA-Mission2,class_19,unknown,Rare Event,Multivariate,Global,Subsequence
+ESA-Mission2,class_30,unknown,Rare Event,Multivariate,Global,Subsequence
+ESA-Mission2,class_19,unknown,Rare Event,Multivariate,Global,Subsequence
+ESA-Mission2,class_19,unknown,Rare Event,Multivariate,Global,Subsequence
+ESA-Mission2,class_19,unknown,Rare Event,Multivariate,Global,Subsequence
+ESA-Mission2,class_19,unknown,Rare Event,Multivariate,Global,Subsequence
+ESA-Mission2,class_30,unknown,Rare Event,Multivariate,Global,Subsequence
+ESA-Mission2,class_19,unknown,Rare Event,Multivariate,Global,Subsequence
+ESA-Mission2,class_19,unknown,Rare Event,Multivariate,Global,Subsequence
+ESA-Mission2,class_19,unknown,Rare Event,Multivariate,Global,Subsequence
+ESA-Mission2,class_19,unknown,Rare Event,Multivariate,Global,Subsequence
+ESA-Mission2,class_20,unknown,Rare Event,Multivariate,Global,Subsequence
+ESA-Mission2,class_30,unknown,Rare Event,Multivariate,Global,Subsequence
+ESA-Mission2,class_19,unknown,Rare Event,Multivariate,Global,Subsequence
+ESA-Mission2,class_20,unknown,Rare Event,Multivariate,Global,Subsequence
+ESA-Mission2,class_19,unknown,Rare Event,Multivariate,Global,Subsequence
+ESA-Mission2,class_19,unknown,Rare Event,Multivariate,Global,Subsequence
+ESA-Mission2,class_19,unknown,Rare Event,Multivariate,Global,Subsequence
+ESA-Mission2,class_1,unknown,Rare Event,Multivariate,Global,Subsequence
+ESA-Mission2,class_30,unknown,Rare Event,Multivariate,Global,Subsequence
+ESA-Mission2,class_19,unknown,Rare Event,Multivariate,Global,Subsequence
+ESA-Mission2,class_30,unknown,Rare Event,Multivariate,Global,Subsequence
+ESA-Mission2,class_18,unknown,Rare Event,Multivariate,Global,Subsequence
+ESA-Mission2,class_26,unknown,Rare Event,Multivariate,Global,Subsequence
+ESA-Mission2,class_30,unknown,Rare Event,Multivariate,Global,Subsequence
+ESA-Mission2,class_19,unknown,Rare Event,Multivariate,Global,Subsequence
+ESA-Mission2,class_19,unknown,Rare Event,Multivariate,Global,Subsequence
+ESA-Mission2,class_19,unknown,Rare Event,Multivariate,Global,Subsequence
+ESA-Mission2,class_30,unknown,Rare Event,Multivariate,Global,Subsequence
+ESA-Mission2,class_19,unknown,Rare Event,Multivariate,Global,Subsequence
+ESA-Mission2,class_20,unknown,Rare Event,Multivariate,Global,Subsequence
+ESA-Mission2,class_19,unknown,Rare Event,Multivariate,Global,Subsequence
+ESA-Mission2,class_19,unknown,Rare Event,Multivariate,Global,Subsequence
+ESA-Mission2,class_18,unknown,Rare Event,Multivariate,Global,Subsequence
+ESA-Mission2,class_30,unknown,Rare Event,Multivariate,Global,Subsequence
+ESA-Mission2,class_19,unknown,Rare Event,Multivariate,Global,Subsequence
+ESA-Mission2,class_19,unknown,Rare Event,Multivariate,Global,Subsequence
+ESA-Mission2,class_19,unknown,Rare Event,Multivariate,Global,Subsequence
+ESA-Mission2,class_19,unknown,Rare Event,Multivariate,Global,Subsequence
+ESA-Mission2,class_30,unknown,Rare Event,Multivariate,Global,Subsequence
+ESA-Mission2,class_19,unknown,Rare Event,Multivariate,Global,Subsequence
+ESA-Mission2,class_19,unknown,Rare Event,Multivariate,Global,Subsequence
+ESA-Mission2,class_19,unknown,Rare Event,Multivariate,Global,Subsequence
+ESA-Mission2,class_30,unknown,Rare Event,Multivariate,Global,Subsequence
+ESA-Mission2,class_19,unknown,Rare Event,Multivariate,Global,Subsequence
+ESA-Mission2,class_19,unknown,Rare Event,Multivariate,Global,Subsequence
+ESA-Mission2,class_19,unknown,Rare Event,Multivariate,Global,Subsequence
+ESA-Mission2,class_19,unknown,Rare Event,Multivariate,Global,Subsequence
+ESA-Mission2,class_19,unknown,Rare Event,Multivariate,Global,Subsequence
+ESA-Mission2,class_19,unknown,Rare Event,Multivariate,Global,Subsequence
+ESA-Mission2,class_19,unknown,Rare Event,Multivariate,Global,Subsequence
+ESA-Mission2,class_19,unknown,Rare Event,Multivariate,Global,Subsequence
+ESA-Mission2,class_19,unknown,Rare Event,Multivariate,Global,Subsequence
+ESA-Mission2,class_19,unknown,Rare Event,Multivariate,Global,Subsequence
+ESA-Mission2,class_30,unknown,Rare Event,Multivariate,Global,Subsequence
+ESA-Mission2,class_19,unknown,Rare Event,Multivariate,Global,Subsequence
+ESA-Mission2,class_19,unknown,Rare Event,Multivariate,Global,Subsequence
+ESA-Mission2,class_19,unknown,Rare Event,Multivariate,Global,Subsequence
+ESA-Mission2,class_19,unknown,Rare Event,Multivariate,Global,Subsequence
+ESA-Mission2,class_19,unknown,Rare Event,Multivariate,Global,Subsequence
+ESA-Mission2,class_19,unknown,Rare Event,Multivariate,Global,Subsequence
+ESA-Mission2,class_19,unknown,Rare Event,Multivariate,Global,Subsequence
+ESA-Mission2,class_11,subclass_1,Rare Event,Multivariate,Global,Subsequence
+ESA-Mission2,class_18,unknown,Rare Event,Multivariate,Global,Subsequence
+ESA-Mission2,class_19,unknown,Rare Event,Multivariate,Global,Subsequence
+ESA-Mission2,class_19,unknown,Rare Event,Multivariate,Global,Subsequence
+ESA-Mission2,class_19,unknown,Rare Event,Multivariate,Global,Subsequence
+ESA-Mission2,class_19,unknown,Rare Event,Multivariate,Global,Subsequence
+ESA-Mission2,class_30,unknown,Rare Event,Multivariate,Global,Subsequence
+ESA-Mission2,class_19,unknown,Rare Event,Multivariate,Global,Subsequence
+ESA-Mission2,class_30,unknown,Rare Event,Multivariate,Global,Subsequence
+ESA-Mission2,class_26,unknown,Rare Event,Multivariate,Global,Subsequence
+ESA-Mission2,class_19,unknown,Rare Event,Multivariate,Global,Subsequence
+ESA-Mission2,class_19,unknown,Rare Event,Multivariate,Global,Subsequence
+ESA-Mission2,class_19,unknown,Rare Event,Multivariate,Global,Subsequence
+ESA-Mission2,class_19,unknown,Rare Event,Multivariate,Global,Subsequence
+ESA-Mission2,class_19,unknown,Rare Event,Multivariate,Global,Subsequence
+ESA-Mission2,class_19,unknown,Rare Event,Multivariate,Global,Subsequence
+ESA-Mission2,class_19,unknown,Rare Event,Multivariate,Global,Subsequence
+ESA-Mission2,class_19,unknown,Rare Event,Multivariate,Global,Subsequence
+ESA-Mission2,class_19,unknown,Rare Event,Multivariate,Global,Subsequence
+ESA-Mission2,class_30,unknown,Rare Event,Multivariate,Global,Subsequence
+ESA-Mission2,class_19,unknown,Rare Event,Multivariate,Global,Subsequence
+ESA-Mission2,class_19,unknown,Rare Event,Multivariate,Global,Subsequence
+ESA-Mission2,class_19,unknown,Rare Event,Multivariate,Global,Subsequence
+ESA-Mission2,class_19,unknown,Rare Event,Multivariate,Global,Subsequence
+ESA-Mission2,class_19,unknown,Rare Event,Multivariate,Global,Subsequence
+ESA-Mission2,class_19,unknown,Rare Event,Multivariate,Global,Subsequence
+ESA-Mission2,class_19,unknown,Rare Event,Multivariate,Global,Subsequence
+ESA-Mission2,class_19,unknown,Rare Event,Multivariate,Global,Subsequence
+ESA-Mission2,class_30,unknown,Rare Event,Multivariate,Global,Subsequence
+ESA-Mission2,class_19,unknown,Rare Event,Multivariate,Global,Subsequence
+ESA-Mission2,class_19,unknown,Rare Event,Multivariate,Global,Subsequence
+ESA-Mission2,class_19,unknown,Rare Event,Multivariate,Global,Subsequence
+ESA-Mission2,class_19,unknown,Rare Event,Multivariate,Global,Subsequence
+ESA-Mission2,class_19,unknown,Rare Event,Multivariate,Global,Subsequence
+ESA-Mission2,class_19,unknown,Rare Event,Multivariate,Global,Subsequence
+ESA-Mission2,class_19,unknown,Rare Event,Multivariate,Global,Subsequence
+ESA-Mission2,class_19,unknown,Rare Event,Multivariate,Global,Subsequence
+ESA-Mission2,class_19,unknown,Rare Event,Multivariate,Global,Subsequence
+ESA-Mission2,class_19,unknown,Rare Event,Multivariate,Global,Subsequence
+ESA-Mission2,class_19,unknown,Rare Event,Multivariate,Global,Subsequence
+ESA-Mission2,class_19,unknown,Rare Event,Multivariate,Global,Subsequence
+ESA-Mission2,class_19,unknown,Rare Event,Multivariate,Global,Subsequence
+ESA-Mission2,class_19,unknown,Rare Event,Multivariate,Global,Subsequence
+ESA-Mission2,class_19,unknown,Rare Event,Multivariate,Global,Subsequence
+ESA-Mission2,class_30,unknown,Rare Event,Multivariate,Global,Subsequence
+ESA-Mission2,class_26,unknown,Rare Event,Multivariate,Global,Subsequence
+ESA-Mission2,class_26,unknown,Rare Event,Multivariate,Global,Subsequence
+ESA-Mission2,class_26,unknown,Rare Event,Multivariate,Global,Subsequence
+ESA-Mission2,class_26,unknown,Rare Event,Multivariate,Global,Subsequence
+ESA-Mission2,class_19,unknown,Rare Event,Multivariate,Global,Subsequence
+ESA-Mission2,class_20,unknown,Rare Event,Multivariate,Global,Subsequence
+ESA-Mission2,class_19,unknown,Rare Event,Multivariate,Global,Subsequence
+ESA-Mission2,class_19,unknown,Rare Event,Multivariate,Global,Subsequence
+ESA-Mission2,class_19,unknown,Rare Event,Multivariate,Global,Subsequence
+ESA-Mission2,class_19,unknown,Rare Event,Multivariate,Global,Subsequence
+ESA-Mission2,class_19,unknown,Rare Event,Multivariate,Global,Subsequence
+ESA-Mission2,class_19,unknown,Rare Event,Multivariate,Global,Subsequence
+ESA-Mission2,class_19,unknown,Rare Event,Multivariate,Global,Subsequence
+ESA-Mission2,class_30,unknown,Rare Event,Multivariate,Global,Subsequence
+ESA-Mission2,class_19,unknown,Rare Event,Multivariate,Global,Subsequence
+ESA-Mission2,class_18,unknown,Rare Event,Multivariate,Global,Subsequence
+ESA-Mission2,class_19,unknown,Rare Event,Multivariate,Global,Subsequence
+ESA-Mission2,class_19,unknown,Rare Event,Multivariate,Global,Subsequence
+ESA-Mission2,class_19,unknown,Rare Event,Multivariate,Global,Subsequence
+ESA-Mission2,class_19,unknown,Rare Event,Multivariate,Global,Subsequence
+ESA-Mission2,class_26,unknown,Rare Event,Multivariate,Global,Subsequence
+ESA-Mission2,class_20,unknown,Rare Event,Multivariate,Global,Subsequence
+ESA-Mission2,class_20,unknown,Rare Event,Multivariate,Global,Subsequence
+ESA-Mission2,class_19,unknown,Rare Event,Multivariate,Global,Subsequence
+ESA-Mission2,class_19,unknown,Rare Event,Multivariate,Global,Subsequence
+ESA-Mission2,class_20,unknown,Rare Event,Multivariate,Global,Subsequence
+ESA-Mission2,class_19,unknown,Rare Event,Multivariate,Global,Subsequence
+ESA-Mission2,class_19,unknown,Rare Event,Multivariate,Global,Subsequence
+ESA-Mission2,class_19,unknown,Rare Event,Multivariate,Global,Subsequence
+ESA-Mission2,class_19,unknown,Rare Event,Multivariate,Global,Subsequence
+ESA-Mission2,class_30,unknown,Rare Event,Multivariate,Global,Subsequence
+ESA-Mission2,class_19,unknown,Rare Event,Multivariate,Global,Subsequence
+ESA-Mission2,class_30,unknown,Rare Event,Multivariate,Global,Subsequence
+ESA-Mission2,class_19,unknown,Rare Event,Multivariate,Global,Subsequence
+ESA-Mission2,class_26,unknown,Rare Event,Multivariate,Global,Subsequence
+ESA-Mission2,class_19,unknown,Rare Event,Multivariate,Global,Subsequence
+ESA-Mission2,class_19,unknown,Rare Event,Multivariate,Global,Subsequence
+ESA-Mission2,class_19,unknown,Rare Event,Multivariate,Global,Subsequence
+ESA-Mission2,class_21,unknown,Rare Event,Multivariate,Global,Subsequence
+ESA-Mission2,class_19,unknown,Rare Event,Multivariate,Global,Subsequence
+ESA-Mission2,class_19,unknown,Rare Event,Multivariate,Global,Subsequence
+ESA-Mission2,class_19,unknown,Rare Event,Multivariate,Global,Subsequence
+ESA-Mission2,class_19,unknown,Rare Event,Multivariate,Global,Subsequence
+ESA-Mission2,class_19,unknown,Rare Event,Multivariate,Global,Subsequence
+ESA-Mission2,class_30,unknown,Rare Event,Multivariate,Global,Subsequence
+ESA-Mission2,class_20,unknown,Rare Event,Multivariate,Global,Subsequence
+ESA-Mission2,class_19,unknown,Rare Event,Multivariate,Global,Subsequence
+ESA-Mission2,class_19,unknown,Rare Event,Multivariate,Local,Subsequence
+ESA-Mission2,class_19,unknown,Rare Event,Multivariate,Global,Subsequence
+ESA-Mission2,class_30,unknown,Rare Event,Multivariate,Global,Subsequence
+ESA-Mission2,class_19,unknown,Rare Event,Multivariate,Global,Subsequence
+ESA-Mission2,class_14,unknown,Rare Event,Multivariate,Global,Subsequence
+ESA-Mission2,class_19,unknown,Rare Event,Multivariate,Global,Subsequence
+ESA-Mission2,class_30,unknown,Rare Event,Multivariate,Global,Subsequence
+ESA-Mission2,class_19,unknown,Rare Event,Multivariate,Global,Subsequence
+ESA-Mission2,class_19,unknown,Rare Event,Multivariate,Global,Subsequence
+ESA-Mission2,class_11,subclass_1,Rare Event,Multivariate,Global,Subsequence
+ESA-Mission2,class_18,unknown,Rare Event,Multivariate,Local,Subsequence
+ESA-Mission2,class_30,unknown,Rare Event,Multivariate,Global,Subsequence
+ESA-Mission2,class_19,unknown,Rare Event,Multivariate,Global,Subsequence
+ESA-Mission2,class_10,unknown,Rare Event,Multivariate,Global,Subsequence
+ESA-Mission2,class_19,unknown,Rare Event,Multivariate,Global,Subsequence
+ESA-Mission2,class_30,unknown,Rare Event,Multivariate,Global,Subsequence
+ESA-Mission2,class_19,unknown,Rare Event,Multivariate,Global,Subsequence
+ESA-Mission2,class_19,unknown,Rare Event,Multivariate,Global,Subsequence
+ESA-Mission2,class_30,unknown,Rare Event,Multivariate,Global,Subsequence
+ESA-Mission2,class_19,unknown,Rare Event,Multivariate,Global,Subsequence
+ESA-Mission2,class_19,unknown,Rare Event,Multivariate,Global,Subsequence
+ESA-Mission2,class_30,unknown,Rare Event,Multivariate,Global,Subsequence
+ESA-Mission2,class_21,unknown,Rare Event,Multivariate,Global,Subsequence
+ESA-Mission2,class_19,unknown,Rare Event,Multivariate,Global,Subsequence
+ESA-Mission2,class_19,unknown,Rare Event,Multivariate,Global,Subsequence
+ESA-Mission2,class_19,unknown,Rare Event,Multivariate,Global,Subsequence
+ESA-Mission2,class_19,unknown,Rare Event,Multivariate,Global,Subsequence
+ESA-Mission2,class_4,unknown,Rare Event,Multivariate,Global,Subsequence
+ESA-Mission2,class_4,unknown,Rare Event,Multivariate,Global,Subsequence
+ESA-Mission2,class_19,unknown,Rare Event,Multivariate,Global,Subsequence
+ESA-Mission2,class_18,unknown,Rare Event,Multivariate,Local,Subsequence
+ESA-Mission2,class_3,unknown,Rare Event,Multivariate,Global,Subsequence
+ESA-Mission2,class_19,unknown,Rare Event,Multivariate,Global,Subsequence
+ESA-Mission2,class_30,unknown,Rare Event,Multivariate,Global,Subsequence
+ESA-Mission2,class_19,unknown,Rare Event,Multivariate,Global,Subsequence
+ESA-Mission2,class_29,unknown,Rare Event,Multivariate,Global,Subsequence
+ESA-Mission2,class_19,unknown,Rare Event,Multivariate,Global,Subsequence
+ESA-Mission2,class_14,unknown,Rare Event,Multivariate,Local,Subsequence
+ESA-Mission2,class_14,unknown,Rare Event,Multivariate,Global,Subsequence
+ESA-Mission2,class_19,unknown,Rare Event,Multivariate,Global,Subsequence
+ESA-Mission2,class_19,unknown,Rare Event,Multivariate,Global,Subsequence
+ESA-Mission2,class_23,unknown,Rare Event,Multivariate,Global,Subsequence
+ESA-Mission2,class_30,unknown,Rare Event,Multivariate,Global,Subsequence
+ESA-Mission2,class_7,unknown,Rare Event,Multivariate,Global,Subsequence
+ESA-Mission2,class_5,unknown,Rare Event,Multivariate,Global,Subsequence
+ESA-Mission2,class_21,unknown,Rare Event,Multivariate,Global,Subsequence
+ESA-Mission2,class_19,unknown,Rare Event,Multivariate,Global,Subsequence
+ESA-Mission2,class_19,unknown,Rare Event,Multivariate,Global,Subsequence
+ESA-Mission2,class_19,unknown,Rare Event,Multivariate,Global,Subsequence
+ESA-Mission2,class_19,unknown,Rare Event,Multivariate,Global,Subsequence
+ESA-Mission2,class_18,unknown,Rare Event,Multivariate,Local,Subsequence
+ESA-Mission2,class_30,unknown,Rare Event,Multivariate,Global,Subsequence
+ESA-Mission2,class_30,unknown,Rare Event,Multivariate,Global,Subsequence
+ESA-Mission2,class_19,unknown,Rare Event,Multivariate,Global,Subsequence
+ESA-Mission2,class_19,unknown,Rare Event,Multivariate,Global,Subsequence
+ESA-Mission2,class_19,unknown,Rare Event,Multivariate,Global,Subsequence
+ESA-Mission2,class_19,unknown,Rare Event,Multivariate,Global,Subsequence
+ESA-Mission2,class_19,unknown,Rare Event,Multivariate,Global,Subsequence
+ESA-Mission2,class_30,unknown,Rare Event,Multivariate,Global,Subsequence
+ESA-Mission2,class_19,unknown,Rare Event,Multivariate,Global,Subsequence
+ESA-Mission2,class_18,unknown,Rare Event,Multivariate,Global,Subsequence
+ESA-Mission2,class_19,unknown,Rare Event,Multivariate,Global,Subsequence
+ESA-Mission2,class_19,unknown,Rare Event,Multivariate,Global,Subsequence
+ESA-Mission2,class_30,unknown,Rare Event,Multivariate,Global,Subsequence
+ESA-Mission2,class_19,unknown,Rare Event,Multivariate,Global,Subsequence
+ESA-Mission2,class_30,unknown,Rare Event,Multivariate,Global,Subsequence
+ESA-Mission2,class_8,unknown,Rare Event,Multivariate,Global,Subsequence
+ESA-Mission2,class_30,unknown,Rare Event,Multivariate,Global,Subsequence
+ESA-Mission2,class_19,unknown,Rare Event,Multivariate,Global,Subsequence
+ESA-Mission2,class_19,unknown,Rare Event,Multivariate,Global,Subsequence
+ESA-Mission2,class_18,unknown,Rare Event,Multivariate,Global,Subsequence
+ESA-Mission2,class_19,unknown,Rare Event,Multivariate,Global,Subsequence
+ESA-Mission2,class_19,unknown,Rare Event,Multivariate,Global,Subsequence
+ESA-Mission2,class_30,unknown,Rare Event,Multivariate,Global,Subsequence
+ESA-Mission2,class_19,unknown,Rare Event,Multivariate,Global,Subsequence
+ESA-Mission2,class_19,unknown,Rare Event,Multivariate,Global,Subsequence
+ESA-Mission2,class_19,unknown,Rare Event,Multivariate,Global,Subsequence
+ESA-Mission2,class_19,unknown,Rare Event,Multivariate,Global,Subsequence
+ESA-Mission2,class_19,unknown,Rare Event,Multivariate,Global,Subsequence
+ESA-Mission2,class_19,unknown,Rare Event,Multivariate,Global,Subsequence
+ESA-Mission2,class_18,unknown,Rare Event,Multivariate,Local,Subsequence
+ESA-Mission2,class_19,unknown,Rare Event,Multivariate,Global,Subsequence
+ESA-Mission2,class_19,unknown,Rare Event,Multivariate,Global,Subsequence
+ESA-Mission2,class_19,unknown,Rare Event,Multivariate,Global,Subsequence
+ESA-Mission2,class_19,unknown,Rare Event,Multivariate,Global,Subsequence
+ESA-Mission2,class_30,unknown,Rare Event,Multivariate,Global,Subsequence
+ESA-Mission2,class_19,unknown,Rare Event,Multivariate,Global,Subsequence
+ESA-Mission2,class_19,unknown,Rare Event,Multivariate,Global,Subsequence
+ESA-Mission2,class_19,unknown,Rare Event,Multivariate,Global,Subsequence
+ESA-Mission2,class_19,unknown,Rare Event,Multivariate,Global,Subsequence
+ESA-Mission2,class_19,unknown,Rare Event,Multivariate,Global,Subsequence
+ESA-Mission2,class_18,unknown,Rare Event,Multivariate,Global,Subsequence
+ESA-Mission2,class_19,unknown,Rare Event,Multivariate,Global,Subsequence
+ESA-Mission2,class_30,unknown,Rare Event,Multivariate,Global,Subsequence
+ESA-Mission2,class_19,unknown,Rare Event,Multivariate,Global,Subsequence
+ESA-Mission2,class_19,unknown,Rare Event,Multivariate,Global,Subsequence
+ESA-Mission2,class_19,unknown,Rare Event,Multivariate,Global,Subsequence
+ESA-Mission2,class_19,unknown,Rare Event,Multivariate,Global,Subsequence
+ESA-Mission2,class_19,unknown,Rare Event,Multivariate,Global,Subsequence
+ESA-Mission2,class_19,unknown,Rare Event,Multivariate,Global,Subsequence
+ESA-Mission2,class_19,unknown,Rare Event,Multivariate,Global,Subsequence
+ESA-Mission2,class_19,unknown,Rare Event,Multivariate,Global,Subsequence
+ESA-Mission2,class_19,unknown,Rare Event,Multivariate,Global,Subsequence
+ESA-Mission2,class_30,unknown,Rare Event,Multivariate,Global,Subsequence
+ESA-Mission2,class_19,unknown,Rare Event,Multivariate,Global,Subsequence
+ESA-Mission2,class_19,unknown,Rare Event,Multivariate,Global,Subsequence
+ESA-Mission2,class_19,unknown,Rare Event,Multivariate,Global,Subsequence
+ESA-Mission2,class_19,unknown,Rare Event,Multivariate,Global,Subsequence
+ESA-Mission2,class_19,unknown,Rare Event,Multivariate,Global,Subsequence
+ESA-Mission2,class_19,unknown,Rare Event,Multivariate,Global,Subsequence
+ESA-Mission2,class_19,unknown,Rare Event,Multivariate,Global,Subsequence
+ESA-Mission2,class_11,subclass_1,Rare Event,Multivariate,Global,Subsequence
+ESA-Mission2,class_20,unknown,Rare Event,Multivariate,Global,Subsequence
+ESA-Mission2,class_30,unknown,Rare Event,Multivariate,Global,Subsequence
+ESA-Mission2,class_19,unknown,Rare Event,Multivariate,Global,Subsequence
+ESA-Mission2,class_19,unknown,Rare Event,Multivariate,Global,Subsequence
+ESA-Mission2,class_19,unknown,Rare Event,Multivariate,Global,Subsequence
+ESA-Mission2,class_19,unknown,Rare Event,Multivariate,Global,Subsequence
+ESA-Mission2,class_19,unknown,Rare Event,Multivariate,Global,Subsequence
+ESA-Mission2,class_19,unknown,Rare Event,Multivariate,Global,Subsequence
+ESA-Mission2,class_19,unknown,Rare Event,Multivariate,Global,Subsequence
+ESA-Mission2,class_19,unknown,Rare Event,Multivariate,Local,Subsequence
+ESA-Mission2,class_30,unknown,Rare Event,Multivariate,Global,Subsequence
+ESA-Mission2,class_18,unknown,Rare Event,Multivariate,Global,Subsequence
+ESA-Mission2,class_26,unknown,Rare Event,Multivariate,Global,Subsequence
+ESA-Mission2,class_19,unknown,Rare Event,Multivariate,Global,Subsequence
+ESA-Mission2,class_19,unknown,Rare Event,Multivariate,Global,Subsequence
+ESA-Mission2,class_19,unknown,Rare Event,Multivariate,Global,Subsequence
+ESA-Mission2,class_19,unknown,Rare Event,Multivariate,Global,Subsequence
+ESA-Mission2,class_30,unknown,Rare Event,Multivariate,Global,Subsequence
+ESA-Mission2,class_19,unknown,Rare Event,Multivariate,Global,Subsequence
+ESA-Mission2,class_30,unknown,Rare Event,Multivariate,Global,Subsequence
+ESA-Mission2,class_19,unknown,Rare Event,Multivariate,Global,Subsequence
+ESA-Mission2,class_19,unknown,Rare Event,Multivariate,Global,Subsequence
+ESA-Mission2,class_18,unknown,Rare Event,Multivariate,Local,Subsequence
+ESA-Mission2,class_19,unknown,Rare Event,Multivariate,Global,Subsequence
+ESA-Mission2,class_30,unknown,Rare Event,Multivariate,Global,Subsequence
+ESA-Mission2,class_19,unknown,Rare Event,Multivariate,Global,Subsequence
+ESA-Mission2,class_19,unknown,Rare Event,Multivariate,Global,Subsequence
+ESA-Mission2,class_20,unknown,Rare Event,Multivariate,Global,Subsequence
+ESA-Mission2,class_19,unknown,Rare Event,Multivariate,Global,Subsequence
+ESA-Mission2,class_19,unknown,Rare Event,Multivariate,Global,Subsequence
+ESA-Mission2,class_30,unknown,Rare Event,Multivariate,Global,Subsequence
+ESA-Mission2,class_19,unknown,Rare Event,Multivariate,Global,Subsequence
+ESA-Mission2,class_19,unknown,Rare Event,Multivariate,Global,Subsequence
+ESA-Mission2,class_20,unknown,Rare Event,Multivariate,Global,Subsequence
+ESA-Mission2,class_19,unknown,Rare Event,Multivariate,Global,Subsequence
+ESA-Mission2,class_19,unknown,Rare Event,Multivariate,Global,Subsequence
+ESA-Mission2,class_19,unknown,Rare Event,Multivariate,Global,Subsequence
+ESA-Mission2,class_19,unknown,Rare Event,Multivariate,Global,Subsequence
+ESA-Mission2,class_19,unknown,Rare Event,Multivariate,Global,Subsequence
+ESA-Mission2,class_19,unknown,Rare Event,Multivariate,Global,Subsequence
+ESA-Mission2,class_30,unknown,Rare Event,Multivariate,Global,Subsequence
+ESA-Mission2,class_19,unknown,Rare Event,Multivariate,Global,Subsequence
+ESA-Mission2,class_30,unknown,Rare Event,Multivariate,Global,Subsequence
+ESA-Mission2,class_9,unknown,Rare Event,Multivariate,Global,Subsequence
+ESA-Mission2,class_20,unknown,Rare Event,Multivariate,Global,Subsequence
+ESA-Mission2,class_19,unknown,Rare Event,Multivariate,Global,Subsequence
+ESA-Mission2,class_30,unknown,Rare Event,Multivariate,Global,Subsequence
+ESA-Mission2,class_9,unknown,Rare Event,Multivariate,Global,Subsequence
+ESA-Mission2,class_19,unknown,Rare Event,Multivariate,Global,Subsequence
+ESA-Mission2,class_30,unknown,Rare Event,Multivariate,Global,Subsequence
+ESA-Mission2,class_26,unknown,Rare Event,Multivariate,Global,Subsequence
+ESA-Mission2,class_21,unknown,Rare Event,Multivariate,Global,Subsequence
+ESA-Mission2,class_19,unknown,Rare Event,Multivariate,Global,Subsequence
+ESA-Mission2,class_19,unknown,Rare Event,Multivariate,Global,Subsequence
+ESA-Mission2,class_19,unknown,Rare Event,Multivariate,Global,Subsequence
+ESA-Mission2,class_18,unknown,Rare Event,Multivariate,Global,Subsequence
+ESA-Mission2,class_19,unknown,Rare Event,Multivariate,Global,Subsequence
+ESA-Mission2,class_19,unknown,Rare Event,Multivariate,Global,Subsequence
+ESA-Mission2,class_19,unknown,Rare Event,Multivariate,Global,Subsequence
+ESA-Mission2,class_19,unknown,Rare Event,Multivariate,Global,Subsequence
+ESA-Mission2,class_19,unknown,Rare Event,Multivariate,Global,Subsequence
+ESA-Mission2,class_30,unknown,Rare Event,Multivariate,Global,Subsequence
+ESA-Mission2,class_19,unknown,Rare Event,Multivariate,Global,Subsequence
+ESA-Mission2,class_19,unknown,Rare Event,Multivariate,Global,Subsequence
+ESA-Mission2,class_19,unknown,Rare Event,Multivariate,Local,Subsequence
+ESA-Mission2,class_19,unknown,Rare Event,Multivariate,Global,Subsequence
+ESA-Mission2,class_20,unknown,Rare Event,Multivariate,Global,Subsequence
+ESA-Mission2,class_30,unknown,Rare Event,Multivariate,Global,Subsequence
+ESA-Mission2,class_19,unknown,Rare Event,Multivariate,Global,Subsequence
+ESA-Mission2,class_14,unknown,Rare Event,Multivariate,Local,Subsequence
+ESA-Mission2,class_19,unknown,Rare Event,Multivariate,Global,Subsequence
+ESA-Mission2,class_19,unknown,Rare Event,Multivariate,Global,Subsequence
+ESA-Mission2,class_19,unknown,Rare Event,Multivariate,Global,Subsequence
+ESA-Mission2,class_30,unknown,Rare Event,Multivariate,Global,Subsequence
+ESA-Mission2,class_19,unknown,Rare Event,Multivariate,Global,Subsequence
+ESA-Mission2,class_19,unknown,Rare Event,Multivariate,Global,Subsequence
+ESA-Mission2,class_19,unknown,Rare Event,Multivariate,Global,Subsequence
+ESA-Mission2,class_18,unknown,Rare Event,Multivariate,Global,Subsequence
+ESA-Mission2,class_30,unknown,Rare Event,Multivariate,Global,Subsequence
+ESA-Mission2,class_19,unknown,Rare Event,Multivariate,Global,Subsequence
+ESA-Mission2,class_19,unknown,Rare Event,Multivariate,Global,Subsequence
+ESA-Mission2,class_19,unknown,Rare Event,Multivariate,Global,Subsequence
+ESA-Mission2,class_19,unknown,Rare Event,Multivariate,Global,Subsequence
+ESA-Mission2,class_30,unknown,Rare Event,Multivariate,Global,Subsequence
+ESA-Mission2,class_19,unknown,Rare Event,Multivariate,Global,Subsequence
+ESA-Mission2,class_19,unknown,Rare Event,Multivariate,Global,Subsequence
+ESA-Mission2,class_19,unknown,Rare Event,Multivariate,Global,Subsequence
+ESA-Mission2,class_30,unknown,Rare Event,Multivariate,Global,Subsequence
+ESA-Mission2,class_19,unknown,Rare Event,Multivariate,Global,Subsequence
+ESA-Mission2,class_20,unknown,Rare Event,Multivariate,Global,Subsequence
+ESA-Mission2,class_19,unknown,Rare Event,Multivariate,Global,Subsequence
+ESA-Mission2,class_19,unknown,Rare Event,Multivariate,Global,Subsequence
+ESA-Mission2,class_19,unknown,Rare Event,Multivariate,Global,Subsequence
+ESA-Mission2,class_19,unknown,Rare Event,Multivariate,Global,Subsequence
+ESA-Mission2,class_19,unknown,Rare Event,Multivariate,Global,Subsequence
+ESA-Mission2,class_19,unknown,Rare Event,Multivariate,Global,Subsequence
+ESA-Mission2,class_30,unknown,Rare Event,Multivariate,Global,Subsequence
+ESA-Mission2,class_19,unknown,Rare Event,Multivariate,Global,Subsequence
+ESA-Mission2,class_19,unknown,Rare Event,Multivariate,Global,Subsequence
+ESA-Mission2,class_19,unknown,Rare Event,Multivariate,Global,Subsequence
+ESA-Mission2,class_19,unknown,Rare Event,Multivariate,Global,Subsequence
+ESA-Mission2,class_19,unknown,Rare Event,Multivariate,Global,Subsequence
+ESA-Mission2,class_19,unknown,Rare Event,Multivariate,Global,Subsequence
+ESA-Mission2,class_19,unknown,Rare Event,Multivariate,Global,Subsequence
+ESA-Mission2,class_30,unknown,Rare Event,Multivariate,Global,Subsequence
+ESA-Mission2,class_19,unknown,Rare Event,Multivariate,Global,Subsequence
+ESA-Mission2,class_20,unknown,Rare Event,Multivariate,Global,Subsequence
+ESA-Mission2,class_20,unknown,Rare Event,Multivariate,Global,Subsequence
+ESA-Mission2,class_11,subclass_1,Rare Event,Multivariate,Global,Subsequence
+ESA-Mission2,class_20,unknown,Rare Event,Multivariate,Global,Subsequence
+ESA-Mission2,class_20,unknown,Rare Event,Multivariate,Global,Subsequence
+ESA-Mission2,class_20,unknown,Rare Event,Multivariate,Global,Subsequence
+ESA-Mission2,class_19,unknown,Rare Event,Multivariate,Global,Subsequence
+ESA-Mission2,class_19,unknown,Rare Event,Multivariate,Global,Subsequence
+ESA-Mission2,class_19,unknown,Rare Event,Multivariate,Global,Subsequence
+ESA-Mission2,class_19,unknown,Rare Event,Multivariate,Global,Subsequence
+ESA-Mission2,class_19,unknown,Rare Event,Multivariate,Global,Subsequence
+ESA-Mission2,class_19,unknown,Rare Event,Multivariate,Global,Subsequence
+ESA-Mission2,class_30,unknown,Rare Event,Multivariate,Global,Subsequence
+ESA-Mission2,class_19,unknown,Rare Event,Multivariate,Global,Subsequence
+ESA-Mission2,class_19,unknown,Rare Event,Multivariate,Global,Subsequence
+ESA-Mission2,class_19,unknown,Rare Event,Multivariate,Global,Subsequence
+ESA-Mission2,class_19,unknown,Rare Event,Multivariate,Global,Subsequence
+ESA-Mission2,class_19,unknown,Rare Event,Multivariate,Global,Subsequence
+ESA-Mission2,class_19,unknown,Rare Event,Multivariate,Global,Subsequence
+ESA-Mission2,class_19,unknown,Rare Event,Multivariate,Global,Subsequence
+ESA-Mission2,class_30,unknown,Rare Event,Multivariate,Global,Subsequence
+ESA-Mission2,class_19,unknown,Rare Event,Multivariate,Global,Subsequence
+ESA-Mission2,class_18,unknown,Rare Event,Multivariate,Local,Subsequence
+ESA-Mission2,class_19,unknown,Rare Event,Multivariate,Global,Subsequence
+ESA-Mission2,class_19,unknown,Rare Event,Multivariate,Global,Subsequence
+ESA-Mission2,class_19,unknown,Rare Event,Multivariate,Global,Subsequence
+ESA-Mission2,class_19,unknown,Rare Event,Multivariate,Global,Subsequence
+ESA-Mission2,class_19,unknown,Rare Event,Multivariate,Global,Subsequence
+ESA-Mission2,class_19,unknown,Rare Event,Multivariate,Global,Subsequence
+ESA-Mission2,class_20,unknown,Rare Event,Multivariate,Global,Subsequence
+ESA-Mission2,class_20,unknown,Rare Event,Multivariate,Global,Subsequence
+ESA-Mission2,class_20,unknown,Rare Event,Multivariate,Global,Subsequence
+ESA-Mission2,class_20,unknown,Rare Event,Multivariate,Local,Subsequence
+ESA-Mission2,class_20,unknown,Rare Event,Multivariate,Global,Subsequence
+ESA-Mission2,class_20,unknown,Rare Event,Multivariate,Global,Subsequence
+ESA-Mission2,class_11,subclass_1,Rare Event,Multivariate,Global,Subsequence
+ESA-Mission2,class_20,unknown,Rare Event,Multivariate,Global,Subsequence
+ESA-Mission2,class_18,unknown,Rare Event,Multivariate,Global,Subsequence
+ESA-Mission2,class_20,unknown,Rare Event,Multivariate,Global,Subsequence
+ESA-Mission2,class_18,unknown,Rare Event,Multivariate,Global,Subsequence
+ESA-Mission2,class_18,unknown,Rare Event,Multivariate,Global,Subsequence
+ESA-Mission2,class_20,unknown,Rare Event,Multivariate,Global,Subsequence
+ESA-Mission2,class_17,unknown,Rare Event,Multivariate,Local,Subsequence
+ESA-Mission2,class_17,unknown,Rare Event,Multivariate,Global,Subsequence
+ESA-Mission2,class_17,unknown,Rare Event,Multivariate,Global,Subsequence
+ESA-Mission2,class_17,subclass_1,Rare Event,Multivariate,Global,Subsequence
+ESA-Mission2,class_20,unknown,Rare Event,Multivariate,Global,Subsequence
+ESA-Mission2,class_17,unknown,Rare Event,Multivariate,Local,Subsequence
+ESA-Mission2,class_17,subclass_2,Rare Event,Multivariate,Global,Subsequence
+ESA-Mission2,class_14,unknown,Rare Event,Multivariate,Global,Subsequence
+ESA-Mission2,class_14,unknown,Rare Event,Multivariate,Local,Subsequence
+ESA-Mission2,class_6,unknown,Rare Event,Multivariate,Global,Subsequence
+ESA-Mission2,class_14,unknown,Rare Event,Multivariate,Local,Subsequence
+ESA-Mission2,class_29,unknown,Rare Event,Multivariate,Local,Subsequence
+ESA-Mission2,class_20,unknown,Rare Event,Multivariate,Global,Subsequence
+ESA-Mission2,unknown,unknown,Anomaly,Multivariate,Local,Subsequence
+ESA-Mission2,class_22,unknown,Rare Event,Multivariate,Local,Subsequence
+ESA-Mission2,class_22,unknown,Rare Event,Multivariate,Local,Subsequence
+ESA-Mission2,class_20,unknown,Rare Event,Multivariate,Global,Subsequence
+ESA-Mission2,class_20,unknown,Rare Event,Multivariate,Global,Subsequence
+ESA-Mission2,class_20,unknown,Rare Event,Multivariate,Global,Subsequence
+ESA-Mission2,class_20,unknown,Rare Event,Multivariate,Global,Subsequence
+ESA-Mission2,class_20,unknown,Rare Event,Multivariate,Global,Subsequence
+ESA-Mission2,class_22,unknown,Rare Event,Multivariate,Local,Subsequence
+ESA-Mission2,class_22,unknown,Rare Event,Multivariate,Local,Subsequence
+ESA-Mission2,class_22,unknown,Rare Event,Multivariate,Local,Subsequence
+ESA-Mission2,class_20,unknown,Rare Event,Multivariate,Global,Subsequence
+ESA-Mission2,class_22,unknown,Rare Event,Multivariate,Global,Subsequence
+ESA-Mission2,class_11,subclass_1,Rare Event,Multivariate,Global,Subsequence
+ESA-Mission2,class_20,unknown,Rare Event,Multivariate,Global,Subsequence
+ESA-Mission2,class_22,unknown,Rare Event,Multivariate,Global,Subsequence
+ESA-Mission2,class_20,unknown,Rare Event,Multivariate,Global,Subsequence
+ESA-Mission2,class_22,unknown,Rare Event,Multivariate,Global,Subsequence
+ESA-Mission2,class_22,unknown,Rare Event,Multivariate,Local,Subsequence
+ESA-Mission2,class_20,unknown,Rare Event,Multivariate,Global,Subsequence
+ESA-Mission2,class_20,unknown,Rare Event,Multivariate,Global,Subsequence
+ESA-Mission2,class_22,unknown,Rare Event,Multivariate,Local,Subsequence
+ESA-Mission2,class_22,unknown,Rare Event,Multivariate,Local,Subsequence
+ESA-Mission2,class_22,unknown,Rare Event,Multivariate,Global,Subsequence
+ESA-Mission2,class_20,unknown,Rare Event,Multivariate,Global,Subsequence
+ESA-Mission2,class_20,unknown,Rare Event,Multivariate,Global,Subsequence
+ESA-Mission2,class_22,unknown,Rare Event,Multivariate,Global,Subsequence
+ESA-Mission2,class_18,unknown,Rare Event,Multivariate,Global,Subsequence
+ESA-Mission2,class_28,unknown,Rare Event,Multivariate,Global,Subsequence
+ESA-Mission2,class_28,unknown,Rare Event,Multivariate,Local,Subsequence
+ESA-Mission2,class_15,unknown,Rare Event,Multivariate,Global,Subsequence
+ESA-Mission2,class_3,unknown,Rare Event,Multivariate,Global,Subsequence
+ESA-Mission2,class_14,unknown,Rare Event,Multivariate,Global,Subsequence
+ESA-Mission2,class_14,unknown,Rare Event,Multivariate,Local,Subsequence
+ESA-Mission2,class_14,unknown,Rare Event,Multivariate,Local,Subsequence
+ESA-Mission2,class_1,unknown,Rare Event,Multivariate,Global,Subsequence
+ESA-Mission2,class_19,unknown,Rare Event,Multivariate,Global,Subsequence
+ESA-Mission2,class_19,unknown,Rare Event,Multivariate,Global,Subsequence
+ESA-Mission2,class_27,unknown,Rare Event,Multivariate,Global,Subsequence
+ESA-Mission2,class_23,unknown,Rare Event,Multivariate,Local,Subsequence
+ESA-Mission2,class_9,unknown,Rare Event,Multivariate,Global,Subsequence
+ESA-Mission2,class_30,unknown,Rare Event,Multivariate,Global,Subsequence
+ESA-Mission2,class_19,unknown,Rare Event,Multivariate,Local,Subsequence
+ESA-Mission2,class_19,unknown,Rare Event,Multivariate,Global,Subsequence
+ESA-Mission2,unknown,unknown,Anomaly,Multivariate,Local,Subsequence
+ESA-Mission2,class_31,unknown,Anomaly,Univariate,Local,Subsequence
+ESA-Mission2,class_14,unknown,Rare Event,Multivariate,Global,Subsequence
+ESA-Mission2,class_31,unknown,Anomaly,Multivariate,Local,Subsequence
+ESA-Mission2,class_19,unknown,Rare Event,Multivariate,Global,Subsequence
+ESA-Mission2,class_3,unknown,Rare Event,Multivariate,Global,Subsequence
+ESA-Mission2,class_11,unknown,Rare Event,Multivariate,Global,Subsequence
+ESA-Mission2,class_18,unknown,Rare Event,Multivariate,Global,Subsequence
+ESA-Mission2,class_19,unknown,Rare Event,Multivariate,Global,Subsequence
+ESA-Mission2,class_19,unknown,Rare Event,Multivariate,Global,Subsequence
+ESA-Mission2,class_24,subclass_1,Anomaly,Univariate,Local,Subsequence
+ESA-Mission2,class_19,unknown,Rare Event,Multivariate,Global,Subsequence
+ESA-Mission2,class_19,unknown,Rare Event,Multivariate,Global,Subsequence
+ESA-Mission2,class_24,subclass_2,Anomaly,Univariate,Local,Subsequence
+ESA-Mission2,class_19,unknown,Rare Event,Multivariate,Local,Subsequence
+ESA-Mission2,class_19,unknown,Rare Event,Multivariate,Global,Subsequence
+ESA-Mission2,class_2,unknown,Anomaly,Multivariate,Local,Subsequence
+ESA-Mission2,class_2,unknown,Anomaly,Multivariate,Global,Subsequence
+ESA-Mission2,class_19,unknown,Rare Event,Multivariate,Local,Subsequence
+ESA-Mission2,class_2,unknown,Anomaly,Multivariate,Local,Subsequence
+ESA-Mission2,class_24,subclass_1,Anomaly,Univariate,Local,Subsequence
+ESA-Mission2,class_2,unknown,Anomaly,Multivariate,Global,Subsequence
+ESA-Mission2,class_2,unknown,Anomaly,Multivariate,Global,Subsequence
+ESA-Mission2,class_2,unknown,Anomaly,Multivariate,Local,Subsequence
+ESA-Mission2,class_2,unknown,Anomaly,Multivariate,Global,Subsequence
+ESA-Mission2,class_2,unknown,Anomaly,Multivariate,Global,Subsequence
+ESA-Mission2,class_2,unknown,Anomaly,Multivariate,Global,Subsequence
+ESA-Mission2,class_2,unknown,Anomaly,Multivariate,Local,Subsequence
+ESA-Mission2,class_13,subclass_1,Anomaly,Univariate,Local,Subsequence
+ESA-Mission2,class_2,unknown,Anomaly,Multivariate,Global,Subsequence
+ESA-Mission2,class_13,subclass_2,Anomaly,Univariate,Local,Subsequence
+ESA-Mission2,class_16,unknown,Anomaly,Multivariate,Global,Subsequence
+ESA-Mission2,class_25,unknown,Anomaly,Multivariate,Local,Subsequence
+ESA-Mission2,class_25,unknown,Anomaly,Multivariate,Local,Subsequence
+ESA-Mission2,class_25,unknown,Anomaly,Multivariate,Local,Subsequence
+ESA-Mission2,class_25,unknown,Anomaly,Multivariate,Local,Subsequence
+ESA-Mission2,class_22,unknown,Rare Event,Multivariate,Global,Subsequence
+ESA-Mission2,unknown,unknown,Anomaly,Multivariate,Global,Subsequence
+ESA-Mission2,unknown,unknown,Anomaly,Multivariate,Local,Subsequence
+ESA-Mission2,class_13,subclass_3,Anomaly,Univariate,Local,Subsequence
+ESA-Mission2,class_3,unknown,Rare Event,Multivariate,Global,Subsequence
+ESA-Mission2,class_13,subclass_4,Anomaly,Univariate,Local,Subsequence
+ESA-Mission2,class_13,subclass_1,Anomaly,Univariate,Local,Subsequence
+ESA-Mission3,class_1,subclass_1,Anomaly,Multivariate,Global,Subsequence
+ESA-Mission3,class_1,subclass_1,Anomaly,Multivariate,Global,Subsequence
+ESA-Mission3,class_2,subclass_1,Anomaly,Multivariate,Local,Subsequence
+ESA-Mission3,class_2,subclass_1,Anomaly,Multivariate,Local,Subsequence
+ESA-Mission3,class_1,subclass_1,Anomaly,Multivariate,Global,Subsequence
+ESA-Mission3,class_1,subclass_2,Anomaly,Multivariate,Global,Subsequence
+ESA-Mission3,class_2,subclass_2,Anomaly,Multivariate,Local,Subsequence
+ESA-Mission3,class_1,subclass_3,Anomaly,Multivariate,Global,Subsequence
+ESA-Mission3,class_3,subclass_1,Rare Event,Univariate,Local,Subsequence
+ESA-Mission3,class_3,subclass_1,Rare Event,Univariate,Global,Subsequence
+ESA-Mission3,class_4,subclass_1,Communication Gap,,,
+ESA-Mission3,class_3,subclass_2,Rare Event,Univariate,Local,Subsequence
+ESA-Mission3,class_4,subclass_1,Communication Gap,,,
+ESA-Mission3,class_4,subclass_1,Communication Gap,,,
+ESA-Mission3,class_4,subclass_1,Communication Gap,,,
+ESA-Mission3,class_4,subclass_1,Communication Gap,,,
+ESA-Mission3,class_4,subclass_1,Communication Gap,,,
+ESA-Mission3,class_4,subclass_1,Communication Gap,,,
+ESA-Mission3,class_4,subclass_1,Communication Gap,,,
+ESA-Mission3,class_4,subclass_1,Communication Gap,,,
+ESA-Mission3,class_4,subclass_1,Communication Gap,,,
+ESA-Mission3,class_4,subclass_1,Communication Gap,,,
+ESA-Mission3,class_4,subclass_1,Communication Gap,,,
+ESA-Mission3,class_4,subclass_1,Communication Gap,,,
+ESA-Mission3,class_4,subclass_1,Communication Gap,,,
+ESA-Mission3,class_4,subclass_1,Communication Gap,,,
+ESA-Mission3,class_4,subclass_1,Communication Gap,,,
+ESA-Mission3,class_4,subclass_1,Communication Gap,,,
+ESA-Mission3,class_4,subclass_1,Communication Gap,,,
+ESA-Mission3,class_4,subclass_1,Communication Gap,,,
+ESA-Mission3,class_4,subclass_1,Communication Gap,,,
+ESA-Mission3,class_4,subclass_1,Communication Gap,,,
+ESA-Mission3,class_4,subclass_1,Communication Gap,,,
+ESA-Mission3,class_4,subclass_1,Communication Gap,,,
+ESA-Mission3,class_4,subclass_1,Communication Gap,,,
+ESA-Mission3,class_4,subclass_1,Communication Gap,,,
+ESA-Mission3,class_4,subclass_1,Communication Gap,,,
+ESA-Mission3,class_4,subclass_1,Communication Gap,,,
+ESA-Mission3,class_4,subclass_1,Communication Gap,,,
+ESA-Mission3,class_4,subclass_1,Communication Gap,,,
+ESA-Mission3,class_4,subclass_1,Communication Gap,,,
+ESA-Mission3,class_4,subclass_1,Communication Gap,,,
+ESA-Mission3,class_4,subclass_1,Communication Gap,,,
+ESA-Mission3,class_4,subclass_1,Communication Gap,,,
+ESA-Mission3,class_4,subclass_1,Communication Gap,,,
+ESA-Mission3,class_4,subclass_1,Communication Gap,,,
+ESA-Mission3,class_4,subclass_1,Communication Gap,,,
+ESA-Mission3,class_4,subclass_1,Communication Gap,,,
+ESA-Mission3,class_4,subclass_1,Communication Gap,,,
+ESA-Mission3,class_4,subclass_1,Communication Gap,,,
+ESA-Mission3,class_4,subclass_1,Communication Gap,,,
+ESA-Mission3,class_4,subclass_1,Communication Gap,,,
+ESA-Mission3,class_4,subclass_1,Communication Gap,,,
+ESA-Mission3,class_4,subclass_1,Communication Gap,,,
+ESA-Mission3,class_4,subclass_1,Communication Gap,,,
+ESA-Mission3,class_4,subclass_1,Communication Gap,,,
+ESA-Mission3,class_4,subclass_1,Communication Gap,,,
+ESA-Mission3,class_4,subclass_1,Communication Gap,,,
+ESA-Mission3,class_4,subclass_1,Communication Gap,,,
+ESA-Mission3,class_4,subclass_1,Communication Gap,,,
+ESA-Mission3,class_4,subclass_1,Communication Gap,,,
+ESA-Mission3,class_4,subclass_1,Communication Gap,,,
+ESA-Mission3,class_4,subclass_1,Communication Gap,,,
+ESA-Mission3,class_4,subclass_1,Communication Gap,,,
+ESA-Mission3,class_4,subclass_1,Communication Gap,,,
+ESA-Mission3,class_4,subclass_1,Communication Gap,,,
+ESA-Mission3,class_4,subclass_1,Communication Gap,,,
+ESA-Mission3,class_4,subclass_1,Communication Gap,,,
+ESA-Mission3,class_4,subclass_1,Communication Gap,,,
+ESA-Mission3,class_4,subclass_1,Communication Gap,,,
+ESA-Mission3,class_4,subclass_1,Communication Gap,,,
+ESA-Mission3,class_4,subclass_1,Communication Gap,,,
+ESA-Mission3,class_4,subclass_1,Communication Gap,,,
+ESA-Mission3,class_4,subclass_1,Communication Gap,,,
+ESA-Mission3,class_4,subclass_1,Communication Gap,,,
+ESA-Mission3,class_4,subclass_1,Communication Gap,,,
+ESA-Mission3,class_4,subclass_1,Communication Gap,,,
+ESA-Mission3,class_4,subclass_1,Communication Gap,,,
+ESA-Mission3,class_4,subclass_1,Communication Gap,,,
+ESA-Mission3,class_4,subclass_1,Communication Gap,,,
+ESA-Mission3,class_4,subclass_1,Communication Gap,,,
+ESA-Mission3,class_4,subclass_1,Communication Gap,,,
+ESA-Mission3,class_4,subclass_1,Communication Gap,,,
+ESA-Mission3,class_4,subclass_1,Communication Gap,,,
+ESA-Mission3,class_4,subclass_1,Communication Gap,,,
+ESA-Mission3,class_4,subclass_1,Communication Gap,,,
+ESA-Mission3,class_4,subclass_1,Communication Gap,,,
+ESA-Mission3,class_4,subclass_1,Communication Gap,,,
+ESA-Mission3,class_4,subclass_1,Communication Gap,,,
+ESA-Mission3,class_4,subclass_1,Communication Gap,,,
+ESA-Mission3,class_4,subclass_1,Communication Gap,,,
+ESA-Mission3,class_4,subclass_1,Communication Gap,,,
+ESA-Mission3,class_4,subclass_1,Communication Gap,,,
+ESA-Mission3,class_4,subclass_1,Communication Gap,,,
+ESA-Mission3,class_4,subclass_1,Communication Gap,,,
+ESA-Mission3,class_4,subclass_1,Communication Gap,,,
+ESA-Mission3,class_4,subclass_1,Communication Gap,,,
+ESA-Mission3,class_4,subclass_1,Communication Gap,,,
+ESA-Mission3,class_4,subclass_1,Communication Gap,,,
+ESA-Mission3,class_4,subclass_1,Communication Gap,,,
+ESA-Mission3,class_4,subclass_1,Communication Gap,,,
+ESA-Mission3,class_4,subclass_1,Communication Gap,,,
+ESA-Mission3,class_4,subclass_1,Communication Gap,,,
+ESA-Mission3,class_4,subclass_1,Communication Gap,,,
+ESA-Mission3,class_4,subclass_1,Communication Gap,,,
+ESA-Mission3,class_4,subclass_1,Communication Gap,,,
+ESA-Mission3,class_4,subclass_1,Communication Gap,,,
+ESA-Mission3,class_4,subclass_1,Communication Gap,,,
+ESA-Mission3,class_4,subclass_1,Communication Gap,,,
+ESA-Mission3,class_4,subclass_1,Communication Gap,,,
+ESA-Mission3,class_4,subclass_1,Communication Gap,,,
+ESA-Mission3,class_4,subclass_1,Communication Gap,,,
+ESA-Mission3,class_4,subclass_1,Communication Gap,,,
+ESA-Mission3,class_4,subclass_1,Communication Gap,,,
+ESA-Mission3,class_4,subclass_1,Communication Gap,,,
+ESA-Mission3,class_4,subclass_1,Communication Gap,,,
+ESA-Mission3,class_4,subclass_1,Communication Gap,,,
+ESA-Mission3,class_4,subclass_1,Communication Gap,,,
+ESA-Mission3,class_4,subclass_1,Communication Gap,,,
+ESA-Mission3,class_4,subclass_1,Communication Gap,,,
+ESA-Mission3,class_4,subclass_1,Communication Gap,,,
+ESA-Mission3,class_4,subclass_1,Communication Gap,,,
+ESA-Mission3,class_4,subclass_1,Communication Gap,,,
+ESA-Mission3,class_4,subclass_1,Communication Gap,,,
+ESA-Mission3,class_4,subclass_1,Communication Gap,,,
+ESA-Mission3,class_4,subclass_1,Communication Gap,,,
+ESA-Mission3,class_4,subclass_1,Communication Gap,,,
+ESA-Mission3,class_4,subclass_1,Communication Gap,,,
+ESA-Mission3,class_4,subclass_1,Communication Gap,,,
+ESA-Mission3,class_4,subclass_1,Communication Gap,,,
+ESA-Mission3,class_4,subclass_1,Communication Gap,,,
+ESA-Mission3,class_4,subclass_1,Communication Gap,,,
+ESA-Mission3,class_4,subclass_1,Communication Gap,,,
+ESA-Mission3,class_4,subclass_1,Communication Gap,,,
+ESA-Mission3,class_4,subclass_1,Communication Gap,,,
+ESA-Mission3,class_4,subclass_1,Communication Gap,,,
+ESA-Mission3,class_4,subclass_1,Communication Gap,,,
+ESA-Mission3,class_4,subclass_1,Communication Gap,,,
+ESA-Mission3,class_4,subclass_1,Communication Gap,,,
+ESA-Mission3,class_4,subclass_1,Communication Gap,,,
+ESA-Mission3,class_4,subclass_1,Communication Gap,,,
+ESA-Mission3,class_4,subclass_1,Communication Gap,,,
+ESA-Mission3,class_4,subclass_1,Communication Gap,,,
+ESA-Mission3,class_4,subclass_1,Communication Gap,,,
+ESA-Mission3,class_4,subclass_1,Communication Gap,,,
+ESA-Mission3,class_4,subclass_1,Communication Gap,,,
+ESA-Mission3,class_4,subclass_1,Communication Gap,,,
+ESA-Mission3,class_4,subclass_1,Communication Gap,,,
+ESA-Mission3,class_4,subclass_1,Communication Gap,,,
+ESA-Mission3,class_4,subclass_1,Communication Gap,,,
+ESA-Mission3,class_4,subclass_1,Communication Gap,,,
+ESA-Mission3,class_4,subclass_1,Communication Gap,,,
+ESA-Mission3,class_4,subclass_1,Communication Gap,,,
+ESA-Mission3,class_4,subclass_1,Communication Gap,,,
+ESA-Mission3,class_4,subclass_1,Communication Gap,,,
+ESA-Mission3,class_4,subclass_1,Communication Gap,,,
+ESA-Mission3,class_4,subclass_1,Communication Gap,,,
+ESA-Mission3,class_4,subclass_1,Communication Gap,,,
+ESA-Mission3,class_4,subclass_1,Communication Gap,,,
+ESA-Mission3,class_4,subclass_1,Communication Gap,,,
+ESA-Mission3,class_4,subclass_1,Communication Gap,,,
+ESA-Mission3,class_4,subclass_1,Communication Gap,,,
+ESA-Mission3,class_4,subclass_1,Communication Gap,,,
+ESA-Mission3,class_4,subclass_1,Communication Gap,,,
+ESA-Mission3,class_4,subclass_1,Communication Gap,,,
+ESA-Mission3,class_4,subclass_1,Communication Gap,,,
+ESA-Mission3,class_4,subclass_1,Communication Gap,,,
+ESA-Mission3,class_4,subclass_1,Communication Gap,,,
+ESA-Mission3,class_4,subclass_1,Communication Gap,,,
+ESA-Mission3,class_4,subclass_1,Communication Gap,,,
+ESA-Mission3,class_4,subclass_1,Communication Gap,,,
+ESA-Mission3,class_4,subclass_1,Communication Gap,,,
+ESA-Mission3,class_4,subclass_1,Communication Gap,,,
+ESA-Mission3,class_4,subclass_1,Communication Gap,,,
+ESA-Mission3,class_4,subclass_1,Communication Gap,,,
+ESA-Mission3,class_4,subclass_1,Communication Gap,,,
+ESA-Mission3,class_4,subclass_1,Communication Gap,,,
+ESA-Mission3,class_4,subclass_1,Communication Gap,,,
+ESA-Mission3,class_4,subclass_1,Communication Gap,,,
+ESA-Mission3,class_4,subclass_1,Communication Gap,,,
+ESA-Mission3,class_4,subclass_1,Communication Gap,,,
+ESA-Mission3,class_4,subclass_1,Communication Gap,,,
+ESA-Mission3,class_4,subclass_1,Communication Gap,,,
+ESA-Mission3,class_4,subclass_1,Communication Gap,,,
+ESA-Mission3,class_4,subclass_1,Communication Gap,,,
+ESA-Mission3,class_4,subclass_1,Communication Gap,,,
+ESA-Mission3,class_4,subclass_1,Communication Gap,,,
+ESA-Mission3,class_4,subclass_1,Communication Gap,,,
+ESA-Mission3,class_4,subclass_1,Communication Gap,,,
+ESA-Mission3,class_4,subclass_1,Communication Gap,,,
+ESA-Mission3,class_4,subclass_1,Communication Gap,,,
+ESA-Mission3,class_4,subclass_1,Communication Gap,,,
+ESA-Mission3,class_4,subclass_1,Communication Gap,,,
+ESA-Mission3,class_4,subclass_1,Communication Gap,,,
+ESA-Mission3,class_4,subclass_1,Communication Gap,,,
+ESA-Mission3,class_4,subclass_1,Communication Gap,,,
+ESA-Mission3,class_4,subclass_1,Communication Gap,,,
+ESA-Mission3,class_4,subclass_1,Communication Gap,,,
+ESA-Mission3,class_4,subclass_1,Communication Gap,,,
+ESA-Mission3,class_4,subclass_1,Communication Gap,,,
+ESA-Mission3,class_4,subclass_1,Communication Gap,,,
+ESA-Mission3,class_4,subclass_1,Communication Gap,,,
+ESA-Mission3,class_4,subclass_1,Communication Gap,,,
+ESA-Mission3,class_4,subclass_1,Communication Gap,,,
+ESA-Mission3,class_4,subclass_1,Communication Gap,,,
+ESA-Mission3,class_4,subclass_1,Communication Gap,,,
+ESA-Mission3,class_4,subclass_1,Communication Gap,,,
+ESA-Mission3,class_4,subclass_1,Communication Gap,,,
+ESA-Mission3,class_4,subclass_1,Communication Gap,,,
+ESA-Mission3,class_4,subclass_1,Communication Gap,,,
+ESA-Mission3,class_4,subclass_1,Communication Gap,,,
+ESA-Mission3,class_4,subclass_1,Communication Gap,,,
+ESA-Mission3,class_4,subclass_1,Communication Gap,,,
+ESA-Mission3,class_4,subclass_1,Communication Gap,,,
+ESA-Mission3,class_4,subclass_1,Communication Gap,,,
+ESA-Mission3,class_4,subclass_1,Communication Gap,,,
+ESA-Mission3,class_4,subclass_1,Communication Gap,,,
+ESA-Mission3,class_4,subclass_1,Communication Gap,,,
+ESA-Mission3,class_4,subclass_1,Communication Gap,,,
+ESA-Mission3,class_4,subclass_1,Communication Gap,,,
+ESA-Mission3,class_4,subclass_1,Communication Gap,,,
+ESA-Mission3,class_4,subclass_1,Communication Gap,,,
+ESA-Mission3,class_4,subclass_1,Communication Gap,,,
+ESA-Mission3,class_4,subclass_1,Communication Gap,,,
+ESA-Mission3,class_4,subclass_1,Communication Gap,,,
+ESA-Mission3,class_4,subclass_1,Communication Gap,,,
+ESA-Mission3,class_4,subclass_1,Communication Gap,,,
+ESA-Mission3,class_4,subclass_1,Communication Gap,,,
+ESA-Mission3,class_4,subclass_1,Communication Gap,,,
+ESA-Mission3,class_4,subclass_1,Communication Gap,,,
+ESA-Mission3,class_4,subclass_1,Communication Gap,,,
+ESA-Mission3,class_4,subclass_1,Communication Gap,,,
+ESA-Mission3,class_4,subclass_1,Communication Gap,,,
+ESA-Mission3,class_4,subclass_1,Communication Gap,,,
+ESA-Mission3,class_4,subclass_1,Communication Gap,,,
+ESA-Mission3,class_4,subclass_1,Communication Gap,,,
+ESA-Mission3,class_4,subclass_1,Communication Gap,,,
+ESA-Mission3,class_4,subclass_1,Communication Gap,,,
+ESA-Mission3,class_4,subclass_1,Communication Gap,,,
+ESA-Mission3,class_4,subclass_1,Communication Gap,,,
+ESA-Mission3,class_4,subclass_1,Communication Gap,,,
+ESA-Mission3,class_4,subclass_1,Communication Gap,,,
+ESA-Mission3,class_4,subclass_1,Communication Gap,,,
+ESA-Mission3,class_4,subclass_1,Communication Gap,,,
+ESA-Mission3,class_4,subclass_1,Communication Gap,,,
+ESA-Mission3,class_4,subclass_1,Communication Gap,,,
+ESA-Mission3,class_4,subclass_1,Communication Gap,,,
+ESA-Mission3,class_4,subclass_1,Communication Gap,,,
+ESA-Mission3,class_4,subclass_1,Communication Gap,,,
+ESA-Mission3,class_4,subclass_1,Communication Gap,,,
+ESA-Mission3,class_4,subclass_1,Communication Gap,,,
+ESA-Mission3,class_4,subclass_1,Communication Gap,,,
+ESA-Mission3,class_4,subclass_1,Communication Gap,,,
+ESA-Mission3,class_4,subclass_1,Communication Gap,,,
+ESA-Mission3,class_4,subclass_1,Communication Gap,,,
+ESA-Mission3,class_4,subclass_1,Communication Gap,,,
+ESA-Mission3,class_4,subclass_1,Communication Gap,,,
+ESA-Mission3,class_4,subclass_1,Communication Gap,,,
+ESA-Mission3,class_4,subclass_1,Communication Gap,,,
+ESA-Mission3,class_4,subclass_1,Communication Gap,,,
+ESA-Mission3,class_4,subclass_1,Communication Gap,,,
+ESA-Mission3,class_4,subclass_1,Communication Gap,,,
+ESA-Mission3,class_4,subclass_1,Communication Gap,,,
+ESA-Mission3,class_4,subclass_1,Communication Gap,,,
+ESA-Mission3,class_4,subclass_1,Communication Gap,,,
+ESA-Mission3,class_4,subclass_1,Communication Gap,,,
+ESA-Mission3,class_4,subclass_1,Communication Gap,,,
+ESA-Mission3,class_4,subclass_1,Communication Gap,,,
+ESA-Mission3,class_4,subclass_1,Communication Gap,,,
+ESA-Mission3,class_4,subclass_1,Communication Gap,,,
+ESA-Mission3,class_4,subclass_1,Communication Gap,,,
+ESA-Mission3,class_4,subclass_1,Communication Gap,,,
+ESA-Mission3,class_4,subclass_1,Communication Gap,,,
+ESA-Mission3,class_4,subclass_1,Communication Gap,,,
+ESA-Mission3,class_4,subclass_1,Communication Gap,,,
+ESA-Mission3,class_4,subclass_1,Communication Gap,,,
+ESA-Mission3,class_4,subclass_1,Communication Gap,,,
+ESA-Mission3,class_4,subclass_1,Communication Gap,,,
+ESA-Mission3,class_4,subclass_1,Communication Gap,,,
+ESA-Mission3,class_4,subclass_1,Communication Gap,,,
+ESA-Mission3,class_4,subclass_1,Communication Gap,,,
+ESA-Mission3,class_4,subclass_1,Communication Gap,,,
+ESA-Mission3,class_4,subclass_1,Communication Gap,,,
+ESA-Mission3,class_4,subclass_1,Communication Gap,,,
+ESA-Mission3,class_4,subclass_1,Communication Gap,,,
+ESA-Mission3,class_4,subclass_1,Communication Gap,,,
+ESA-Mission3,class_4,subclass_1,Communication Gap,,,
+ESA-Mission3,class_4,subclass_1,Communication Gap,,,
+ESA-Mission3,class_4,subclass_1,Communication Gap,,,
+ESA-Mission3,class_4,subclass_1,Communication Gap,,,
+ESA-Mission3,class_4,subclass_1,Communication Gap,,,
+ESA-Mission3,class_4,subclass_1,Communication Gap,,,
+ESA-Mission3,class_4,subclass_1,Communication Gap,,,
+ESA-Mission3,class_4,subclass_1,Communication Gap,,,
+ESA-Mission3,class_4,subclass_1,Communication Gap,,,
+ESA-Mission3,class_4,subclass_1,Communication Gap,,,
+ESA-Mission3,class_4,subclass_1,Communication Gap,,,
+ESA-Mission3,class_4,subclass_1,Communication Gap,,,
+ESA-Mission3,class_4,subclass_1,Communication Gap,,,
+ESA-Mission3,class_4,subclass_1,Communication Gap,,,
+ESA-Mission3,class_4,subclass_1,Communication Gap,,,
+ESA-Mission3,class_4,subclass_1,Communication Gap,,,
+ESA-Mission3,class_4,subclass_1,Communication Gap,,,
+ESA-Mission3,class_4,subclass_1,Communication Gap,,,
+ESA-Mission3,class_4,subclass_1,Communication Gap,,,
+ESA-Mission3,class_4,subclass_1,Communication Gap,,,
+ESA-Mission3,class_4,subclass_1,Communication Gap,,,
+ESA-Mission3,class_4,subclass_1,Communication Gap,,,
+ESA-Mission3,class_4,subclass_1,Communication Gap,,,
+ESA-Mission3,class_4,subclass_1,Communication Gap,,,
+ESA-Mission3,class_4,subclass_1,Communication Gap,,,
+ESA-Mission3,class_4,subclass_1,Communication Gap,,,
+ESA-Mission3,class_4,subclass_1,Communication Gap,,,
+ESA-Mission3,class_4,subclass_1,Communication Gap,,,
+ESA-Mission3,class_4,subclass_1,Communication Gap,,,
+ESA-Mission3,class_4,subclass_1,Communication Gap,,,
+ESA-Mission3,class_4,subclass_1,Communication Gap,,,
+ESA-Mission3,class_4,subclass_1,Communication Gap,,,
+ESA-Mission3,class_4,subclass_1,Communication Gap,,,
+ESA-Mission3,class_4,subclass_1,Communication Gap,,,
+ESA-Mission3,class_4,subclass_1,Communication Gap,,,
+ESA-Mission3,class_4,subclass_1,Communication Gap,,,
+ESA-Mission3,class_4,subclass_1,Communication Gap,,,
+ESA-Mission3,class_4,subclass_1,Communication Gap,,,
+ESA-Mission3,class_4,subclass_1,Communication Gap,,,
+ESA-Mission3,class_4,subclass_1,Communication Gap,,,
+ESA-Mission3,class_4,subclass_1,Communication Gap,,,
+ESA-Mission3,class_4,subclass_1,Communication Gap,,,
+ESA-Mission3,class_4,subclass_1,Communication Gap,,,
+ESA-Mission3,class_4,subclass_1,Communication Gap,,,
+ESA-Mission3,class_4,subclass_1,Communication Gap,,,
+ESA-Mission3,class_4,subclass_1,Communication Gap,,,
+ESA-Mission3,class_4,subclass_1,Communication Gap,,,
+ESA-Mission3,class_4,subclass_1,Communication Gap,,,
+ESA-Mission3,class_4,subclass_1,Communication Gap,,,
+ESA-Mission3,class_4,subclass_1,Communication Gap,,,
+ESA-Mission3,class_4,subclass_1,Communication Gap,,,
+ESA-Mission3,class_4,subclass_1,Communication Gap,,,
+ESA-Mission3,class_4,subclass_1,Communication Gap,,,
+ESA-Mission3,class_4,subclass_1,Communication Gap,,,
+ESA-Mission3,class_4,subclass_1,Communication Gap,,,
+ESA-Mission3,class_4,subclass_1,Communication Gap,,,
+ESA-Mission3,class_4,subclass_1,Communication Gap,,,
+ESA-Mission3,class_4,subclass_1,Communication Gap,,,
+ESA-Mission3,class_4,subclass_1,Communication Gap,,,
+ESA-Mission3,class_4,subclass_1,Communication Gap,,,
+ESA-Mission3,class_4,subclass_1,Communication Gap,,,
+ESA-Mission3,class_4,subclass_1,Communication Gap,,,
+ESA-Mission3,class_4,subclass_1,Communication Gap,,,
+ESA-Mission3,class_4,subclass_1,Communication Gap,,,
+ESA-Mission3,class_4,subclass_1,Communication Gap,,,
+ESA-Mission3,class_4,subclass_1,Communication Gap,,,
+ESA-Mission3,class_4,subclass_1,Communication Gap,,,
+ESA-Mission3,class_4,subclass_1,Communication Gap,,,
+ESA-Mission3,class_4,subclass_1,Communication Gap,,,
+ESA-Mission3,class_4,subclass_1,Communication Gap,,,
+ESA-Mission3,class_4,subclass_1,Communication Gap,,,
+ESA-Mission3,class_4,subclass_1,Communication Gap,,,
+ESA-Mission3,class_4,subclass_1,Communication Gap,,,
+ESA-Mission3,class_4,subclass_1,Communication Gap,,,
+ESA-Mission3,class_4,subclass_1,Communication Gap,,,
+ESA-Mission3,class_4,subclass_1,Communication Gap,,,
+ESA-Mission3,class_4,subclass_1,Communication Gap,,,
+ESA-Mission3,class_4,subclass_1,Communication Gap,,,
+ESA-Mission3,class_4,subclass_1,Communication Gap,,,
+ESA-Mission3,class_4,subclass_1,Communication Gap,,,
+ESA-Mission3,class_4,subclass_1,Communication Gap,,,
+ESA-Mission3,class_4,subclass_1,Communication Gap,,,
+ESA-Mission3,class_4,subclass_1,Communication Gap,,,
+ESA-Mission3,class_4,subclass_1,Communication Gap,,,
+ESA-Mission3,class_4,subclass_1,Communication Gap,,,
+ESA-Mission3,class_4,subclass_1,Communication Gap,,,
+ESA-Mission3,class_4,subclass_1,Communication Gap,,,
+ESA-Mission3,class_4,subclass_1,Communication Gap,,,
+ESA-Mission3,class_4,subclass_1,Communication Gap,,,
+ESA-Mission3,class_4,subclass_1,Communication Gap,,,
+ESA-Mission3,class_4,subclass_1,Communication Gap,,,
+ESA-Mission3,class_4,subclass_1,Communication Gap,,,
+ESA-Mission3,class_4,subclass_1,Communication Gap,,,
+ESA-Mission3,class_4,subclass_1,Communication Gap,,,
+ESA-Mission3,class_4,subclass_1,Communication Gap,,,
+ESA-Mission3,class_4,subclass_1,Communication Gap,,,
+ESA-Mission3,class_4,subclass_1,Communication Gap,,,
+ESA-Mission3,class_4,subclass_1,Communication Gap,,,
+ESA-Mission3,class_4,subclass_1,Communication Gap,,,
+ESA-Mission3,class_4,subclass_1,Communication Gap,,,
+ESA-Mission3,class_4,subclass_1,Communication Gap,,,
+ESA-Mission3,class_4,subclass_1,Communication Gap,,,
+ESA-Mission3,class_4,subclass_1,Communication Gap,,,
+ESA-Mission3,class_4,subclass_1,Communication Gap,,,
+ESA-Mission3,class_4,subclass_1,Communication Gap,,,
+ESA-Mission3,class_4,subclass_1,Communication Gap,,,
+ESA-Mission3,class_4,subclass_1,Communication Gap,,,
+ESA-Mission3,class_4,subclass_1,Communication Gap,,,
+ESA-Mission3,class_4,subclass_1,Communication Gap,,,
+ESA-Mission3,class_4,subclass_1,Communication Gap,,,
+ESA-Mission3,class_4,subclass_1,Communication Gap,,,
+ESA-Mission3,class_4,subclass_1,Communication Gap,,,
+ESA-Mission3,class_4,subclass_1,Communication Gap,,,
+ESA-Mission3,class_4,subclass_1,Communication Gap,,,
+ESA-Mission3,class_4,subclass_1,Communication Gap,,,
+ESA-Mission3,class_4,subclass_1,Communication Gap,,,
+ESA-Mission3,class_4,subclass_1,Communication Gap,,,
+ESA-Mission3,class_4,subclass_1,Communication Gap,,,
+ESA-Mission3,class_4,subclass_1,Communication Gap,,,
+ESA-Mission3,class_4,subclass_1,Communication Gap,,,
+ESA-Mission3,class_4,subclass_1,Communication Gap,,,
+ESA-Mission3,class_4,subclass_1,Communication Gap,,,
+ESA-Mission3,class_5,subclass_1,Rare Event,Univariate,Global,Subsequence
+ESA-Mission3,class_5,subclass_1,Rare Event,Univariate,Global,Point
+ESA-Mission3,class_5,subclass_1,Rare Event,Univariate,Global,Subsequence
+ESA-Mission3,class_5,subclass_1,Rare Event,Univariate,Global,Subsequence
+ESA-Mission3,class_5,subclass_1,Rare Event,Univariate,Global,Subsequence
+ESA-Mission3,class_5,subclass_1,Rare Event,Univariate,Global,Subsequence
+ESA-Mission3,class_5,subclass_1,Rare Event,Univariate,Global,Point
+ESA-Mission3,class_5,subclass_1,Rare Event,Univariate,Global,Subsequence
+ESA-Mission3,class_5,subclass_1,Rare Event,Univariate,Global,Subsequence
+ESA-Mission3,class_5,subclass_1,Rare Event,Univariate,Global,Point
+ESA-Mission3,class_5,subclass_1,Rare Event,Univariate,Global,Subsequence
+ESA-Mission3,class_5,subclass_1,Rare Event,Univariate,Global,Subsequence
+ESA-Mission3,class_5,subclass_1,Rare Event,Univariate,Global,Subsequence
+ESA-Mission3,class_5,subclass_1,Rare Event,Univariate,Global,Subsequence
+ESA-Mission3,class_5,subclass_1,Rare Event,Univariate,Global,Subsequence
+ESA-Mission3,class_5,subclass_1,Rare Event,Univariate,Global,Subsequence
+ESA-Mission3,class_5,subclass_1,Rare Event,Univariate,Global,Subsequence
+ESA-Mission3,class_5,subclass_1,Rare Event,Univariate,Global,Subsequence
+ESA-Mission3,class_5,subclass_1,Rare Event,Univariate,Global,Subsequence
+ESA-Mission3,class_5,subclass_1,Rare Event,Univariate,Global,Subsequence
+ESA-Mission3,class_5,subclass_1,Rare Event,Univariate,Global,Subsequence
+ESA-Mission3,class_5,subclass_1,Rare Event,Univariate,Global,Subsequence
+ESA-Mission3,class_6,subclass_1,Invalid Segment,,,
+ESA-Mission3,class_6,subclass_1,Invalid Segment,,,
+ESA-Mission3,class_6,subclass_1,Invalid Segment,,,
+ESA-Mission3,class_6,subclass_1,Invalid Segment,,,
+ESA-Mission3,class_6,subclass_1,Invalid Segment,,,
+ESA-Mission3,class_6,subclass_1,Invalid Segment,,,
+ESA-Mission3,class_6,subclass_1,Invalid Segment,,,
+ESA-Mission3,class_6,subclass_1,Invalid Segment,,,
+ESA-Mission3,class_6,subclass_1,Invalid Segment,,,
+ESA-Mission3,class_6,subclass_1,Invalid Segment,,,
+ESA-Mission3,class_6,subclass_1,Invalid Segment,,,
+ESA-Mission3,class_6,subclass_1,Invalid Segment,,,
+ESA-Mission3,class_6,subclass_1,Invalid Segment,,,
+ESA-Mission3,class_6,subclass_1,Invalid Segment,,,
+ESA-Mission3,class_6,subclass_1,Invalid Segment,,,
+ESA-Mission3,class_6,subclass_1,Invalid Segment,,,
+ESA-Mission3,class_6,subclass_1,Invalid Segment,,,
+ESA-Mission3,class_6,subclass_1,Invalid Segment,,,
+ESA-Mission3,class_6,subclass_1,Invalid Segment,,,
+ESA-Mission3,class_6,subclass_1,Invalid Segment,,,
+ESA-Mission3,class_6,subclass_1,Invalid Segment,,,
+ESA-Mission3,class_6,subclass_1,Invalid Segment,,,
+ESA-Mission3,class_6,subclass_1,Invalid Segment,,,
+ESA-Mission3,class_6,subclass_1,Invalid Segment,,,
+ESA-Mission3,class_6,subclass_1,Invalid Segment,,,
+ESA-Mission3,class_6,subclass_1,Invalid Segment,,,
+ESA-Mission3,class_6,subclass_1,Invalid Segment,,,
+ESA-Mission3,class_6,subclass_1,Invalid Segment,,,
+ESA-Mission3,class_6,subclass_1,Invalid Segment,,,
+ESA-Mission3,class_6,subclass_1,Invalid Segment,,,
+ESA-Mission3,class_6,subclass_1,Invalid Segment,,,
+ESA-Mission3,class_6,subclass_1,Invalid Segment,,,
+ESA-Mission3,class_6,subclass_1,Invalid Segment,,,
+ESA-Mission3,class_6,subclass_1,Invalid Segment,,,
+ESA-Mission3,class_6,subclass_1,Invalid Segment,,,
+ESA-Mission3,class_6,subclass_1,Invalid Segment,,,
+ESA-Mission3,class_6,subclass_1,Invalid Segment,,,
+ESA-Mission3,class_6,subclass_1,Invalid Segment,,,
+ESA-Mission3,class_6,subclass_1,Invalid Segment,,,
+ESA-Mission3,class_6,subclass_1,Invalid Segment,,,
+ESA-Mission3,class_6,subclass_1,Invalid Segment,,,
+ESA-Mission3,class_6,subclass_1,Invalid Segment,,,
+ESA-Mission3,class_6,subclass_1,Invalid Segment,,,
+ESA-Mission3,class_6,subclass_1,Invalid Segment,,,
+ESA-Mission3,class_6,subclass_1,Invalid Segment,,,
+ESA-Mission3,class_6,subclass_1,Invalid Segment,,,
+ESA-Mission3,class_6,subclass_1,Invalid Segment,,,
+ESA-Mission3,class_6,subclass_1,Invalid Segment,,,
+ESA-Mission3,class_6,subclass_1,Invalid Segment,,,
+ESA-Mission3,class_6,subclass_1,Invalid Segment,,,
+ESA-Mission3,class_6,subclass_1,Invalid Segment,,,
+ESA-Mission3,class_6,subclass_1,Invalid Segment,,,
+ESA-Mission3,class_6,subclass_1,Invalid Segment,,,
+ESA-Mission3,class_6,subclass_1,Invalid Segment,,,
+ESA-Mission3,class_6,subclass_1,Invalid Segment,,,
+ESA-Mission3,class_6,subclass_1,Invalid Segment,,,
+ESA-Mission3,class_6,subclass_1,Invalid Segment,,,
+ESA-Mission3,class_6,subclass_1,Invalid Segment,,,
+ESA-Mission3,class_6,subclass_1,Invalid Segment,,,
+ESA-Mission3,class_6,subclass_1,Invalid Segment,,,
+ESA-Mission3,class_6,subclass_1,Invalid Segment,,,
+ESA-Mission3,class_6,subclass_1,Invalid Segment,,,
+ESA-Mission3,class_6,subclass_1,Invalid Segment,,,
+ESA-Mission3,class_6,subclass_1,Invalid Segment,,,
+ESA-Mission3,class_6,subclass_1,Invalid Segment,,,
+ESA-Mission3,class_6,subclass_1,Invalid Segment,,,
+ESA-Mission3,class_6,subclass_1,Invalid Segment,,,
+ESA-Mission3,class_6,subclass_1,Invalid Segment,,,
+ESA-Mission3,class_6,subclass_1,Invalid Segment,,,
+ESA-Mission3,class_6,subclass_1,Invalid Segment,,,
+ESA-Mission3,class_6,subclass_1,Invalid Segment,,,
+ESA-Mission3,class_6,subclass_1,Invalid Segment,,,
+ESA-Mission3,class_6,subclass_1,Invalid Segment,,,
+ESA-Mission3,class_6,subclass_1,Invalid Segment,,,
+ESA-Mission3,class_6,subclass_1,Invalid Segment,,,
+ESA-Mission3,class_6,subclass_1,Invalid Segment,,,
+ESA-Mission3,class_6,subclass_1,Invalid Segment,,,
+ESA-Mission3,class_6,subclass_1,Invalid Segment,,,
+ESA-Mission3,class_6,subclass_1,Invalid Segment,,,
+ESA-Mission3,class_6,subclass_1,Invalid Segment,,,
+ESA-Mission3,class_6,subclass_1,Invalid Segment,,,
+ESA-Mission3,class_6,subclass_1,Invalid Segment,,,
+ESA-Mission3,class_6,subclass_1,Invalid Segment,,,
+ESA-Mission3,class_6,subclass_1,Invalid Segment,,,
+ESA-Mission3,class_6,subclass_1,Invalid Segment,,,
+ESA-Mission3,class_6,subclass_1,Invalid Segment,,,
+ESA-Mission3,class_6,subclass_1,Invalid Segment,,,
+ESA-Mission3,class_6,subclass_1,Invalid Segment,,,
+ESA-Mission3,class_6,subclass_1,Invalid Segment,,,
+ESA-Mission3,class_6,subclass_1,Invalid Segment,,,
+ESA-Mission3,class_6,subclass_1,Invalid Segment,,,
+ESA-Mission3,class_6,subclass_1,Invalid Segment,,,
+ESA-Mission3,class_6,subclass_1,Invalid Segment,,,
+ESA-Mission3,class_6,subclass_1,Invalid Segment,,,
+ESA-Mission3,class_6,subclass_1,Invalid Segment,,,
+ESA-Mission3,class_6,subclass_1,Invalid Segment,,,
+ESA-Mission3,class_6,subclass_1,Invalid Segment,,,
+ESA-Mission3,class_6,subclass_1,Invalid Segment,,,
+ESA-Mission3,class_6,subclass_1,Invalid Segment,,,
+ESA-Mission3,class_6,subclass_1,Invalid Segment,,,
+ESA-Mission3,class_6,subclass_1,Invalid Segment,,,
+ESA-Mission3,class_6,subclass_1,Invalid Segment,,,
+ESA-Mission3,class_6,subclass_1,Invalid Segment,,,
+ESA-Mission3,class_6,subclass_1,Invalid Segment,,,
+ESA-Mission3,class_6,subclass_1,Invalid Segment,,,
+ESA-Mission3,class_6,subclass_1,Invalid Segment,,,
+ESA-Mission3,class_6,subclass_1,Invalid Segment,,,
+ESA-Mission3,class_6,subclass_1,Invalid Segment,,,
+ESA-Mission3,class_6,subclass_1,Invalid Segment,,,
+ESA-Mission3,class_6,subclass_1,Invalid Segment,,,
+ESA-Mission3,class_6,subclass_1,Invalid Segment,,,
+ESA-Mission3,class_6,subclass_1,Invalid Segment,,,
+ESA-Mission3,class_6,subclass_1,Invalid Segment,,,
+ESA-Mission3,class_6,subclass_1,Invalid Segment,,,
+ESA-Mission3,class_6,subclass_1,Invalid Segment,,,
+ESA-Mission3,class_6,subclass_1,Invalid Segment,,,
+ESA-Mission3,class_6,subclass_1,Invalid Segment,,,
+ESA-Mission3,class_6,subclass_1,Invalid Segment,,,
+ESA-Mission3,class_6,subclass_1,Invalid Segment,,,
+ESA-Mission3,class_6,subclass_1,Invalid Segment,,,
+ESA-Mission3,class_6,subclass_1,Invalid Segment,,,
+ESA-Mission3,class_6,subclass_1,Invalid Segment,,,
+ESA-Mission3,class_6,subclass_1,Invalid Segment,,,
+ESA-Mission3,class_6,subclass_1,Invalid Segment,,,
+ESA-Mission3,class_6,subclass_1,Invalid Segment,,,
+ESA-Mission3,class_6,subclass_1,Invalid Segment,,,
+ESA-Mission3,class_6,subclass_1,Invalid Segment,,,
+ESA-Mission3,class_6,subclass_1,Invalid Segment,,,
+ESA-Mission3,class_6,subclass_1,Invalid Segment,,,
+ESA-Mission3,class_6,subclass_1,Invalid Segment,,,
+ESA-Mission3,class_6,subclass_1,Invalid Segment,,,
+ESA-Mission3,class_6,subclass_1,Invalid Segment,,,
+ESA-Mission3,class_6,subclass_1,Invalid Segment,,,
+ESA-Mission3,class_6,subclass_1,Invalid Segment,,,
+ESA-Mission3,class_6,subclass_1,Invalid Segment,,,
+ESA-Mission3,class_6,subclass_1,Invalid Segment,,,
+ESA-Mission3,class_6,subclass_1,Invalid Segment,,,
+ESA-Mission3,class_6,subclass_1,Invalid Segment,,,
+ESA-Mission3,class_6,subclass_1,Invalid Segment,,,
+ESA-Mission3,class_6,subclass_1,Invalid Segment,,,
+ESA-Mission3,class_6,subclass_1,Invalid Segment,,,
+ESA-Mission3,class_6,subclass_1,Invalid Segment,,,
+ESA-Mission3,class_6,subclass_1,Invalid Segment,,,
+ESA-Mission3,class_6,subclass_1,Invalid Segment,,,
+ESA-Mission3,class_6,subclass_1,Invalid Segment,,,
+ESA-Mission3,class_6,subclass_1,Invalid Segment,,,
+ESA-Mission3,class_6,subclass_1,Invalid Segment,,,
+ESA-Mission3,class_6,subclass_1,Invalid Segment,,,
+ESA-Mission3,class_6,subclass_1,Invalid Segment,,,
+ESA-Mission3,class_6,subclass_1,Invalid Segment,,,
+ESA-Mission3,class_6,subclass_1,Invalid Segment,,,
+ESA-Mission3,class_6,subclass_1,Invalid Segment,,,
+ESA-Mission3,class_6,subclass_1,Invalid Segment,,,
+ESA-Mission3,class_6,subclass_1,Invalid Segment,,,
+ESA-Mission3,class_6,subclass_1,Invalid Segment,,,
+ESA-Mission3,class_6,subclass_1,Invalid Segment,,,

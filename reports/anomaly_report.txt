@@ -1,0 +1,10 @@
+REPORTE DE ANÁLISIS - ANOMALÍA id_34
+Rango: 2000-01-01 a 2000-01-01
+Eventos: 15 | Canales: 14
+Duración promedio: 1.02h | Categoría: Rare Event
+
+Top 3 eventos más largos:
+   Channel                        StartTime  Duration
+channel_13 2000-01-01 03:00:34.302000+00:00  2.440004
+channel_20 2000-01-01 03:00:16.302000+00:00  2.305003
+channel_18 2000-01-01 03:00:16.302000+00:00  2.295003
