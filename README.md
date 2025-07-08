@@ -191,8 +191,7 @@ This ESA satellite anomaly detector demonstrates a viable architecture for proac
 ## 👨‍🚀 Author
 
 **Juan M.G.Y.** — Data Scientist & anomaly hunter  
-Contact: [LinkedIn](#) · [Email](#) · [GitHub](https://github.com/pashitox)
-
+Contact: [LinkedIn](https://www.linkedin.com/in/pashitox/) · [Email](pashitox@gmail.com) ·
 - ## 🧾 Notes
 
 This is a lightweight version of the full ESA anomaly detector system.  
