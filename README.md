@@ -6,6 +6,11 @@
 
 This project is a full-featured anomaly detection system for ESA satellite missions. It integrates multiple data sources, explores mission-specific anomalies, builds a predictive model using XGBoost, and interprets results using SHAP. It’s designed to identify anomalous satellite behavior across three missions and provide technical insights for decision-making and future projections.
 
+
+![modelo](https://github.com/user-attachments/assets/be503ad4-7e1c-4509-bc5a-e6f7a1384234)
+
+
+
 ---
 
 ## 🧠 Objectives
